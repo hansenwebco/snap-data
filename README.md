@@ -1,0 +1,1 @@
+# JSON Data file for the Cards of Mavel Snap by Second Dinner
