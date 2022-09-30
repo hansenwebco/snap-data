@@ -1033,7 +1033,7 @@
         },
         {
           "id": "148",
-          "name": "Iron Man",
+          "name": "IronMan",
           "energy": "5",
           "power": "0",
           "desc": "Ongoing: Your total Power is doubled at this location."
@@ -1208,7 +1208,7 @@
         },
         {
           "id": "173",
-          "name": "Nick Fury",
+          "name": "NickFury",
           "energy": "5",
           "power": "7",
           "desc": "On Reveal: Add 3 random 6-Cost cards to your hand"
