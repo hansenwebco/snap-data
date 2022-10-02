@@ -1,5 +1,89 @@
 {
   "data": {
+    "locations": {
+      "location": [
+        {
+          "id": "1",
+          "name": "Avengers Compound",
+          "desc": "On turn 5, all cards must be played here."
+        },
+        {
+          "id": "2",
+          "name": "Hala",
+          "desc": "After turn 4, destroy all cards controlled by the player losing here."
+        },
+        {
+          "id": "3",
+          "name": "Hellfire Club",
+          "desc": "1-Cost cards can't be played here."
+        },
+        {
+          "id": "4",
+          "name": "Kamar-Taj",
+          "desc": "On Reveal effects happen twice at this location."
+        },
+        {
+          "id": "5",
+          "name": "Knowhere",
+          "desc": "On Reveal effects do not happen at this location."
+        },
+        {
+          "id": "6",
+          "name": "Kyln",
+          "desc": "You can't play cards here after turn 4."
+        },
+        {
+          "id": "7",
+          "name": "Lechuguilla",
+          "desc": "When you play a card here, shuffle 3 rocks into your deck."
+        },
+        {
+          "id": "8",
+          "name": "Limbo",
+          "desc": "There is a turn 7 this game."
+        },
+        {
+          "id": "9",
+          "name": "Los Diablos Base",
+          "desc": "At the end of turn 3, ruin a random location."
+        },
+        {
+          "id": "10",
+          "name": "Mindscape",
+          "desc": "At the start of turn 6, swap hands."
+        },
+        {
+          "id": "11",
+          "name": "Miniaturized Lab",
+          "desc": "On turns 3, 4, and 5, no cards can be added here."
+        },
+        {
+          "id": "12",
+          "name": "Cloning Vats",
+          "desc": "When you play a card here, add a copy to your hand."
+        },
+        {
+          "id": "13",
+          "name": "Mirror Dimension",
+          "desc": "On turn 4, transform into one of the other locations."
+        },
+        {
+          "id": "14",
+          "name": "Mojoworld",
+          "desc": "Whoever has more cards here gets +100 Power."
+        },
+        {
+          "id": "15",
+          "name": "Monster Island",
+          "desc": "Add a 9-Power Monster here for each player."
+        },
+        {
+          "id": "16",
+          "name": "Muir Island",
+          "desc": "After each turn, give cards here +1 Power."
+        }             
+      ]
+    },
     "cards": {
       "card": [
         {
