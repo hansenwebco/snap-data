@@ -1296,7 +1296,14 @@
           "energy": "5",
           "power": "7",
           "desc": "On Reveal: Add 3 random 6-Cost cards to your hand"
-        }
+        },
+        {
+          "id": "174",
+          "name": "MilesMorales",
+          "energy": "4",
+          "power": "5",
+          "desc": "If a card moved last turn, this costs 0."
+        }        
       ]
     }
   }
