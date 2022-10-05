@@ -148,7 +148,7 @@
           "energy": "4",
           "power": "-1",
           "desc": "On Reveal: Swap the Power and Cost of all cards in your deck.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "9",
@@ -388,7 +388,7 @@
           "energy": "5",
           "power": "3",
           "desc": "Ongoing: +2 Power for each card in your opponent's hand.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "39",
@@ -540,7 +540,7 @@
           "energy": "3",
           "power": "2",
           "desc": "When you play a card, this gains +1 Power.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "58",
