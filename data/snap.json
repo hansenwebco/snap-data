@@ -115,1197 +115,1368 @@
           "name": "Moon Knight",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Discard a card from each player's hand."
+          "desc": "On Reveal: Discard a card from each player's hand.",
+          "currentImage": true
         },
         {
           "id": "5",
           "name": "Morbius",
           "energy": "2",
           "power": "0",
-          "desc": "Ongoing: +2 Power for each card you discarded from  your hand this game."
+          "desc": "Ongoing: +2 Power for each card you discarded from  your hand this game.",
+          "currentImage": true
         },
         {
           "id": "6",
           "name": "Morph",
           "energy": "3",
           "power": "0",
-          "desc": "On Reveal: Become a copy of a random card in your opponent's hand."
+          "desc": "On Reveal: Become a copy of a random card in your opponent's hand.",
+          "currentImage": true
         },
         {
           "id": "7",
           "name": "MrFantastic",
           "energy": "3",
           "power": "2",
-          "desc": "Ongoing: Adjacent locations have +2 Power."
+          "desc": "Ongoing: Adjacent locations have +2 Power.",
+          "currentImage": true
         },
         {
           "id": "8",
           "name": "MrNegative",
           "energy": "4",
           "power": "1",
-          "desc": "On Reveal: Swap the Power and Cost of all cards in your deck."
+          "desc": "On Reveal: Swap the Power and Cost of all cards in your deck.",
+          "currentImage": true
         },
         {
           "id": "9",
           "name": "MrSinister",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Add a Sinister Clone to this location with the same Power."
+          "desc": "On Reveal: Add a Sinister Clone to this location with the same Power.",
+          "currentImage": true
         },
         {
           "id": "10",
           "name": "MultipleMan",
           "energy": "2",
           "power": "3",
-          "desc": "When this moves, add a copy to the old location."
+          "desc": "When this moves, add a copy to the old location.",
+          "currentImage": true
         },
         {
           "id": "11",
           "name": "Mysterio",
           "energy": "2",
           "power": "5",
-          "desc": "Which is the real Mysterio? The real one has 5 Power."
+          "desc": "Which is the real Mysterio? The real one has 5 Power.",
+          "currentImage": true
         },
         {
           "id": "12",
           "name": "Mystique",
           "energy": "3",
           "power": "0",
-          "desc": "On Reveal: If the last card you played has an Ongoing ability, this card gains it."
+          "desc": "On Reveal: If the last card you played has an Ongoing ability, this card gains it.",
+          "currentImage": true
         },
         {
           "id": "13",
           "name": "Armor",
           "energy": "2",
           "power": "3",
-          "desc": "On going: Cards at this location can't be destroyed."
+          "desc": "On going: Cards at this location can't be destroyed.",
+          "currentImage": true
         },
         {
           "id": "14",
           "name": "Nakia",
           "energy": "3",
           "power": "1",
-          "desc": "On Reveal: Give 2 cards in your hand +2 Power."
+          "desc": "On Reveal: Give 2 cards in your hand +2 Power.",
+          "currentImage": true
         },
         {
           "id": "15",
           "name": "Namor",
           "energy": "4",
           "power": "5",
-          "desc": "Ongoing: +5 Power if this is your only card here."
+          "desc": "Ongoing: +5 Power if this is your only card here.",
+          "currentImage": true
         },
         {
           "id": "16",
           "name": "Nightcrawler",
           "energy": "1",
           "power": "2",
-          "desc": "You can move this once."
+          "desc": "You can move this once.",
+          "currentImage": true
         },
         {
           "id": "17",
           "name": "Nova",
           "energy": "1",
           "power": "2",
-          "desc": "When this is destroyed, give your cards +1 Power."
+          "desc": "When this is destroyed, give your cards +1 Power.",
+          "currentImage": true
         },
         {
           "id": "18",
           "name": "Odin",
           "energy": "6",
           "power": "8",
-          "desc": "On Reveal: Activate the On Reveal abilities of your other cards at this location."
+          "desc": "On Reveal: Activate the On Reveal abilities of your other cards at this location.",
+          "currentImage": true
         },
         {
           "id": "19",
           "name": "Okoye",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Give every card in your deck +2 Power."
+          "desc": "On Reveal: Give every card in your deck +2 Power.",
+          "currentImage": true
         },
         {
           "id": "20",
           "name": "OmegaRed",
           "energy": "4",
           "power": "5",
-          "desc": "Ongoing: If you're ahead by 10 Power here, +4 Power to other locations."
+          "desc": "Ongoing: If you're ahead by 10 Power here, +4 Power to other locations.",
+          "currentImage": true
         },
         {
           "id": "21",
           "name": "Onslaught",
           "energy": "6",
           "power": "7",
-          "desc": "Ongoing: Double your other Ongoing effects at this location."
+          "desc": "Ongoing: Double your other Ongoing effects at this location.",
+          "currentImage": true
         },
         {
           "id": "22",
           "name": "Patriot",
           "energy": "3",
           "power": "1",
-          "desc": "Ongoing: Your cards with no abilities have +2 Power."
+          "desc": "Ongoing: Your cards with no abilities have +2 Power.",
+          "currentImage": true
         },
         {
           "id": "23",
           "name": "Polaris",
           "energy": "3",
           "power": "5",
-          "desc": "On Reveal: Move an opposing 1 or 2-Cost card to this location."
+          "desc": "On Reveal: Move an opposing 1 or 2-Cost card to this location.",
+          "currentImage": true
         },
         {
           "id": "24",
           "name": "ArnimZola",
           "energy": "6",
           "power": "0",
-          "desc": "On Reveal: Destroy a random friendly card here; add copies of it to the other locations."
+          "desc": "On Reveal: Destroy a random friendly card here; add copies of it to the other locations.",
+          "currentImage": true
         },
         {
           "id": "25",
           "name": "ProfessorX",
           "energy": "5",
           "power": "3",
-          "desc": "Ongoing: Lock down this location. (Cards can't be added, removed, etc.)"
+          "desc": "Ongoing: Lock down this location. (Cards can't be added, removed, etc.)",
+          "currentImage": true
         },
         {
           "id": "26",
           "name": "Psylocke",
           "energy": "2",
           "power": "1",
-          "desc": "On Reveal: Next turn, you get +1 Energy"
+          "desc": "On Reveal: Next turn, you get +1 Energy",
+          "currentImage": true
         },
         {
           "id": "27",
           "name": "Punisher",
           "energy": "3",
           "power": "2",
-          "desc": "Ongoing: +1 Power for each opposing card at this location."
+          "desc": "Ongoing: +1 Power for each opposing card at this location.",
+          "currentImage": true
         },
         {
           "id": "28",
           "name": "Quake",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: If this is at the middle location, swap the positions of each location."
+          "desc": "On Reveal: If this is at the middle location, swap the positions of each location.",
+          "currentImage": true
         },
         {
           "id": "29",
           "name": "Quicksilver",
           "energy": "1",
           "power": "2",
-          "desc": "Starts in your opening hand."
+          "desc": "Starts in your opening hand.",
+          "currentImage": true
         },
         {
           "id": "30",
           "name": "Quinjet",
           "energy": "1",
           "power": "2",
-          "desc": "Ongoing: Cards that didn't start in your deck cost 1 less."
+          "desc": "Ongoing: Cards that didn't start in your deck cost 1 less.",
+          "currentImage": true
         },
         {
           "id": "31",
           "name": "RedSkull",
           "energy": "5",
           "power": "15",
-          "desc": "Ongoing: Enemy cards at this location have +2 Power."
+          "desc": "Ongoing: Enemy cards at this location have +2 Power.",
+          "currentImage": true
         },
         {
           "id": "32",
           "name": "Rescue",
           "energy": "4",
           "power": "4",
-          "desc": "On Reveal: If you play a card here next turn, +5 Power."
+          "desc": "On Reveal: If you play a card here next turn, +5 Power.",
+          "currentImage": true
         },
         {
           "id": "33",
           "name": "Rhino",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Ruin this location. (remove its ability)"
+          "desc": "On Reveal: Ruin this location. (remove its ability)",
+          "currentImage": true
         },
         {
           "id": "34",
           "name": "RocketRaccoon",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Shuffle 2 useless Rocks into your opponents deck."
+          "desc": "On Reveal: Shuffle 2 useless Rocks into your opponents deck.",
+          "currentImage": true
         },
         {
           "id": "35",
           "name": "BaronMordo",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: Your opponent draws a card. Set its Cost to 6."
+          "desc": "On Reveal: Your opponent draws a card. Set its Cost to 6.",
+          "currentImage": true
         },
         {
           "id": "36",
           "name": "Rockslide",
           "energy": "4",
           "power": "6",
-          "desc": "On Reveal: If your opponent played a card here this turn, +2 Power"
+          "desc": "On Reveal: If your opponent played a card here this turn, +2 Power",
+          "currentImage": true
         },
         {
           "id": "37",
           "name": "Rogue",
           "energy": "3",
           "power": "1",
-          "desc": "On Reveal: Steal an Ongoing ability from a random enemy card at this location"
+          "desc": "On Reveal: Steal an Ongoing ability from a random enemy card at this location",
+          "currentImage": true
         },
         {
           "id": "38",
           "name": "Ronan",
           "energy": "5",
           "power": "0",
-          "desc": "Ongoing: +3 Power for each card in your opponent's hand."
+          "desc": "Ongoing: +3 Power for each card in your opponent's hand.",
+          "currentImage": true
         },
         {
           "id": "39",
           "name": "Sabretooth",
           "energy": "3",
           "power": "4",
-          "desc": "When this is destroyed, return it to your hand. It costs 0."
+          "desc": "When this is destroyed, return it to your hand. It costs 0.",
+          "currentImage": true
         },
         {
           "id": "40",
           "name": "Sandman",
           "energy": "4",
           "power": "1",
-          "desc": "Ongoing: Players can only play 1 card a turn."
+          "desc": "Ongoing: Players can only play 1 card a turn.",
+          "currentImage": true
         },
         {
           "id": "41",
           "name": "ScarletWitch",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: Replace this location with a random new one."
+          "desc": "On Reveal: Replace this location with a random new one.",
+          "currentImage": true
         },
         {
           "id": "42",
           "name": "Scorpion",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Afflict cards in your opponent's hand with -1 Power."
+          "desc": "On Reveal: Afflict cards in your opponent's hand with -1 Power.",
+          "currentImage": true
         },
         {
           "id": "43",
           "name": "Sentinel",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: Add another Sentinel to your hand."
+          "desc": "On Reveal: Add another Sentinel to your hand.",
+          "currentImage": true
         },
         {
           "id": "44",
           "name": "Sera",
           "energy": "5",
           "power": "5",
-          "desc": "Ongoing: Cards in  your hand cost 1 less. (minimum 1)"
+          "desc": "Ongoing: Cards in  your hand cost 1 less. (minimum 1)",
+          "currentImage": true
         },
         {
           "id": "45",
           "name": "ShangChi",
           "energy": "4",
           "power": "3",
-          "desc": "On Reveal: Destroy all enemy cards at this location that have 9 or more Power."
+          "desc": "On Reveal: Destroy all enemy cards at this location that have 9 or more Power.",
+          "currentImage": true
         },
         {
           "id": "46",
           "name": "Beast",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Return your other cards at this location to your hand. They cost 1 less."
+          "desc": "On Reveal: Return your other cards at this location to your hand. They cost 1 less.",
+          "currentImage": true
         },
         {
           "id": "47",
           "name": "Shocker",
           "energy": "2",
           "power": "3",
-          "desc": "No abilities"
+          "desc": "No abilities",
+          "currentImage": true
         },
         {
           "id": "48",
           "name": "Spectrum",
           "energy": "6",
           "power": "6",
-          "desc": "On Reveal: Give your Ongoing cards +2 Power."
+          "desc": "On Reveal: Give your Ongoing cards +2 Power.",
+          "currentImage": true
         },
         {
           "id": "49",
           "name": "SpiderMan",
           "energy": "4",
           "power": "3",
-          "desc": "On Reveal: Your opponent can't play cards at this location next turn."
+          "desc": "On Reveal: Your opponent can't play cards at this location next turn.",
+          "currentImage": true
         },
         {
           "id": "50",
           "name": "SpiderWoman",
           "energy": "5",
           "power": "7",
-          "desc": "On Reveal: Afflict all enemy cards here with -1 Power."
+          "desc": "On Reveal: Afflict all enemy cards here with -1 Power.",
+          "currentImage": true
         },
         {
           "id": "51",
           "name": "SquirrelGirl",
           "energy": "1",
           "power": "1",
-          "desc": "On Reveal: Add a 1 -Power Squirrel to each other location."
+          "desc": "On Reveal: Add a 1 -Power Squirrel to each other location.",
+          "currentImage": true
         },
         {
           "id": "52",
           "name": "StarLord",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: If your opponent played a card here this turn, +3 Power."
+          "desc": "On Reveal: If your opponent played a card here this turn, +3 Power.",
+          "currentImage": true
         },
         {
           "id": "53",
           "name": "Storm",
           "energy": "3",
           "power": "2",
-          "desc": "On Reveal: Flood this location. Next turn is the last turn cards can be played here."
+          "desc": "On Reveal: Flood this location. Next turn is the last turn cards can be played here.",
+          "currentImage": true
         },
         {
           "id": "54",
           "name": "StrongGuy",
           "energy": "4",
           "power": "4",
-          "desc": "Ongoing: If your hand is empty, +6 Power."
+          "desc": "Ongoing: If your hand is empty, +6 Power.",
+          "currentImage": true
         },
         {
           "id": "55",
           "name": "Sunspot",
           "energy": "1",
           "power": "1",
-          "desc": "At the end of each turn, gain +1 Power for each unspent Energy."
+          "desc": "At the end of each turn, gain +1 Power for each unspent Energy.",
+          "currentImage": true
         },
         {
           "id": "56",
           "name": "Swarm",
           "energy": "2",
           "power": "3",
-          "desc": "When this is discarded from your hand, add two 0-Cost copies to your hand."
+          "desc": "When this is discarded from your hand, add two 0-Cost copies to your hand.",
+          "currentImage": true
         },
         {
           "id": "57",
           "name": "Bishop",
           "energy": "3",
           "power": "2",
-          "desc": "When you play a card, this gains +1 Power."
+          "desc": "When you play a card, this gains +1 Power.",
+          "currentImage": true
         },
         {
           "id": "58",
           "name": "SwordMaster",
           "energy": "3",
           "power": "6",
-          "desc": "On Reveal: Discard a card from your hand."
+          "desc": "On Reveal: Discard a card from your hand.",
+          "currentImage": true
         },
         {
           "id": "59",
           "name": "Taskmaster",
           "energy": "5",
           "power": "0",
-          "desc": "On Reveal: Set this cards Power equal to the Power of the last card you played."
+          "desc": "On Reveal: Set this cards Power equal to the Power of the last card you played.",
+          "currentImage": true
         },
         {
           "id": "60",
           "name": "TheCollector",
           "energy": "2",
           "power": "1",
-          "desc": "When a card enters your hand from anywhere (exept your deck), +2 Power."
+          "desc": "When a card enters your hand from anywhere (exept your deck), +2 Power.",
+          "currentImage": true
         },
         {
           "id": "61",
           "name": "TheThing",
           "energy": "4",
           "power": "6",
-          "desc": "No abilities"
+          "desc": "No abilities",
+          "currentImage": true
         },
         {
           "id": "62",
           "name": "Thor",
           "energy": "3",
           "power": "4",
-          "desc": "On Reveal: Shuffle Mjolnir into your deck."
+          "desc": "On Reveal: Shuffle Mjolnir into your deck.",
+          "currentImage": true
         },
         {
           "id": "63",
           "name": "TyphoidMary",
           "energy": "4",
           "power": "10",
-          "desc": "Ongoing: Your other cards have -1 Power."
+          "desc": "Ongoing: Your other cards have -1 Power.",
+          "currentImage": true
         },
         {
           "id": "64",
           "name": "Uatu",
           "energy": "1",
           "power": "2",
-          "desc": "Once this is in your hand, you can see the unrevealed locations."
+          "desc": "Once this is in your hand, you can see the unrevealed locations.",
+          "currentImage": true
         },
         {
           "id": "65",
           "name": "Ultron",
           "energy": "6",
           "power": "8",
-          "desc": "On Reveal: Create four 1-Power Drones at each other location."
+          "desc": "On Reveal: Create four 1-Power Drones at each other location.",
+          "currentImage": true
         },
         {
           "id": "66",
           "name": "Venom",
           "energy": "3",
           "power": "1",
-          "desc": "On Reveal: Destroy your other cards at this location. Add their Power to this card."
+          "desc": "On Reveal: Destroy your other cards at this location. Add their Power to this card.",
+          "currentImage": true
         },
         {
           "id": "67",
           "name": "Viper",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: Your opponent gains control of one of your other cards at this location."
+          "desc": "On Reveal: Your opponent gains control of one of your other cards at this location.",
+          "currentImage": true
         },
         {
           "id": "68",
           "name": "BlackBolt",
           "energy": "5",
           "power": "8",
-          "desc": "On Reveal: Your opponent must discard the lowest-Cost card in their hand."
+          "desc": "On Reveal: Your opponent must discard the lowest-Cost card in their hand.",
+          "currentImage": true
         },
         {
           "id": "69",
           "name": "Vision",
           "energy": "5",
           "power": "7",
-          "desc": "You can move this each turn."
+          "desc": "You can move this each turn.",
+          "currentImage": true
         },
         {
           "id": "70",
           "name": "Vulture",
           "energy": "3",
           "power": "3",
-          "desc": "When this card moves, +5 Power."
+          "desc": "When this card moves, +5 Power.",
+          "currentImage": true
         },
         {
           "id": "71",
           "name": "Warpath",
           "energy": "4",
           "power": "5",
-          "desc": "Ongoing: If any of your locations are empty, +4 Power."
+          "desc": "Ongoing: If any of your locations are empty, +4 Power.",
+          "currentImage": true
         },
         {
           "id": "72",
           "name": "Wasp",
           "energy": "0",
           "power": "1",
-          "desc": "No abilities"
+          "desc": "No abilities",
+          "currentImage": true
         },
         {
           "id": "73",
           "name": "Wave",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Next turn, cards in both players' hands cost 4."
+          "desc": "On Reveal: Next turn, cards in both players' hands cost 4.",
+          "currentImage": true
         },
         {
           "id": "74",
           "name": "WhiteQueen",
           "energy": "4",
           "power": "6",
-          "desc": "On Reveal: Draw a copy of a 6-Cost card in your opponent's hand."
+          "desc": "On Reveal: Draw a copy of a 6-Cost card in your opponent's hand.",
+          "currentImage": true
         },
         {
           "id": "75",
           "name": "WhiteTiger",
           "energy": "5",
           "power": "1",
-          "desc": "On Reveal: Add a 7-Power Tiger to another location."
+          "desc": "On Reveal: Add a 7-Power Tiger to another location.",
+          "currentImage": true
         },
         {
           "id": "76",
           "name": "Wolfsbane",
           "energy": "3",
           "power": "1",
-          "desc": "On Reveal: +2 Power for each other card you have here."
+          "desc": "On Reveal: +2 Power for each other card you have here.",
+          "currentImage": true
         },
         {
           "id": "77",
           "name": "Wolverine",
           "energy": "2",
           "power": "3",
-          "desc": "When this is discarded or destroyed, play it at a random location."
+          "desc": "When this is discarded or destroyed, play it at a random location.",
+          "currentImage": true
         },
         {
           "id": "78",
           "name": "Wong",
           "energy": "4",
           "power": "2",
-          "desc": "Your On Reveal abilities at this location happen twice."
+          "desc": "Your On Reveal abilities at this location happen twice.",
+          "currentImage": true
         },
         {
           "id": "79",
           "name": "BlackCat",
           "energy": "3",
           "power": "6",
-          "desc": "If this is in your hand at the end of your turn, discard it."
+          "desc": "If this is in your hand at the end of your turn, discard it.",
+          "currentImage": true
         },
         {
           "id": "80",
           "name": "Yellowjacket",
           "energy": "0",
           "power": "2",
-          "desc": "On Reveal: Afflict your other cards at this location with -1 Power."
+          "desc": "On Reveal: Afflict your other cards at this location with -1 Power.",
+          "currentImage": true
         },
         {
           "id": "81",
           "name": "Yondu",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Remove the top card of your opponent's deck."
+          "desc": "On Reveal: Remove the top card of your opponent's deck.",
+          "currentImage": true
         },
         {
           "id": "82",
           "name": "Zero",
           "energy": "1",
           "power": "3",
-          "desc": "On Reveal: Remove the abilities on the next card you play."
+          "desc": "On Reveal: Remove the abilities on the next card you play.",
+          "currentImage": true
         },
         {
           "id": "83",
           "name": "BlackWidow",
           "energy": "2",
           "power": "1",
-          "desc": "On Reveal: Add a Widow's Bite to your opponent's hand."
+          "desc": "On Reveal: Add a Widow's Bite to your opponent's hand.",
+          "currentImage": true
         },
         {
           "id": "84",
           "name": "Blade",
           "energy": "1",
           "power": "3",
-          "desc": "On Reveal: Discard a card from your hand"
+          "desc": "On Reveal: Discard a card from your hand",
+          "currentImage": true
         },
         {
           "id": "85",
           "name": "AdamWarlock",
           "energy": "2",
           "power": "0",
-          "desc": "At the end of each turn, if you are winning this location, draw a card."
+          "desc": "At the end of each turn, if you are winning this location, draw a card.",
+          "currentImage": true
         },
         {
           "id": "86",
           "name": "BlueMarvel",
           "energy": "5",
           "power": "3",
-          "desc": "Ongoing: Your other cards have +1 Power."
+          "desc": "Ongoing: Your other cards have +1 Power.",
+          "currentImage": true
         },
         {
           "id": "87",
           "name": "Brood",
           "energy": "3",
           "power": "2",
-          "desc": "On Reveal: Add 2 Broodlings to this location with the same Power"
+          "desc": "On Reveal: Add 2 Broodlings to this location with the same Power",
+          "currentImage": true
         },
         {
           "id": "88",
           "name": "BuckyBarnes",
           "energy": "2",
           "power": "1",
-          "desc": "When this is destroyed, create the Winter Soldier in its place."
+          "desc": "When this is destroyed, create the Winter Soldier in its place.",
+          "currentImage": true
         },
         {
           "id": "89",
           "name": "Cable",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Put the bottom card of your opponent's deck into your hand."
+          "desc": "On Reveal: Put the bottom card of your opponent's deck into your hand.",
+          "currentImage": true
         },
         {
           "id": "90",
           "name": "CaptainAmerica",
           "energy": "3",
           "power": "3",
-          "desc": "Ongoing: Your other cards at this location have +1 Power."
+          "desc": "Ongoing: Your other cards at this location have +1 Power.",
+          "currentImage": true
         },
         {
           "id": "91",
           "name": "CaptainMarvel",
           "energy": "5",
           "power": "6",
-          "desc": "After the final turn, move to a location that wins you the game (if possible)"
+          "desc": "After the final turn, move to a location that wins you the game (if possible)",
+          "currentImage": true
         },
         {
           "id": "92",
           "name": "Carnage",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Destroy your other cards here. +2 Power for each destroyed."
+          "desc": "On Reveal: Destroy your other cards here. +2 Power for each destroyed.",
+          "currentImage": true
         },
         {
           "id": "93",
           "name": "Cerebro",
           "energy": "3",
           "power": "0",
-          "desc": "Ongoing: Your highest Power cards get +2 Power."
+          "desc": "Ongoing: Your highest Power cards get +2 Power.",
+          "currentImage": true
         },
         {
           "id": "94",
           "name": "Cloak",
           "energy": "2",
           "power": "4",
-          "desc": "On Reveal: Next turn, both players can move cards to this location."
+          "desc": "On Reveal: Next turn, both players can move cards to this location.",
+          "currentImage": true
         },
         {
           "id": "95",
           "name": "ColleenWing",
           "energy": "2",
           "power": "4",
-          "desc": "On Reveal: Discard the lowest-cost card from your hand."
+          "desc": "On Reveal: Discard the lowest-cost card from your hand.",
+          "currentImage": true
         },
         {
           "id": "96",
           "name": "Aero",
           "energy": "5",
           "power": "8",
-          "desc": "On Reveal: Move all enemy cards played this turn to this location."
+          "desc": "On Reveal: Move all enemy cards played this turn to this location.",
+          "currentImage": true
         },
         {
           "id": "97",
           "name": "Colossus",
           "energy": "2",
           "power": "3",
-          "desc": "Ongoing: Can't be destroyed or moved."
+          "desc": "Ongoing: Can't be destroyed or moved.",
+          "currentImage": true
         },
         {
           "id": "98",
           "name": "Cosmo",
           "energy": "3",
           "power": "3",
-          "desc": "Ongoing: On Reveal Abilities won't happen at this location."
+          "desc": "Ongoing: On Reveal Abilities won't happen at this location.",
+          "currentImage": true
         },
         {
           "id": "99",
           "name": "Crossbones",
           "energy": "4",
           "power": "8",
-          "desc": "You can only play this at locations where you have more Power then your opponent."
+          "desc": "You can only play this at locations where you have more Power then your opponent.",
+          "currentImage": true
         },
         {
           "id": "100",
           "name": "Crystal",
           "energy": "4",
           "power": "4",
-          "desc": "On Reveal: If this is at the middle location, shuffle your hand into your deck and draw 3 cards."
+          "desc": "On Reveal: If this is at the middle location, shuffle your hand into your deck and draw 3 cards.",
+          "currentImage": true
         },
         {
           "id": "101",
           "name": "Cyclops",
           "energy": "3",
           "power": "4",
-          "desc": "No abilities"
+          "desc": "No abilities",
+          "currentImage": true
         },
         {
           "id": "102",
           "name": "Dagger",
           "energy": "2",
           "power": "1",
-          "desc": "When this moves to a location, +2 Power for each card your opponent has there."
+          "desc": "When this moves to a location, +2 Power for each card your opponent has there.",
+          "currentImage": true
         },
         {
           "id": "103",
           "name": "Daredevil",
           "energy": "2",
           "power": "2",
-          "desc": "On turn 5, you get to see your opponents plays before you make your own."
+          "desc": "On turn 5, you get to see your opponents plays before you make your own.",
+          "currentImage": true
         },
         {
           "id": "104",
           "name": "Deadpool",
           "energy": "1",
           "power": "1",
-          "desc": "When this card is destroyed, return it to your hand with double the Power."
+          "desc": "When this card is destroyed, return it to your hand with double the Power.",
+          "currentImage": true
         },
         {
           "id": "105",
           "name": "Death",
           "energy": "9",
           "power": "12",
-          "desc": "Cost 1 less for each card destroyed this game."
+          "desc": "Cost 1 less for each card destroyed this game.",
+          "currentImage": true
         },
         {
           "id": "106",
           "name": "Deathlok",
           "energy": "3",
           "power": "5",
-          "desc": "On Reveal: Destroy your other cards at this location."
+          "desc": "On Reveal: Destroy your other cards at this location.",
+          "currentImage": true
         },
         {
           "id": "107",
           "name": "AgathaHarkness",
           "energy": "6",
           "power": "14",
-          "desc": "Agatha starts in your hand and plays your cards for you."
+          "desc": "Agatha starts in your hand and plays your cards for you.",
+          "currentImage": true
         },
         {
           "id": "108",
           "name": "Debrii",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Add a Rock to each other location, for both players."
+          "desc": "On Reveal: Add a Rock to each other location, for both players.",
+          "currentImage": true
         },
         {
           "id": "109",
           "name": "Destroyer",
           "energy": "6",
           "power": "16",
-          "desc": "On Reveal: Destroy your other cards."
+          "desc": "On Reveal: Destroy your other cards.",
+          "currentImage": true
         },
         {
           "id": "110",
           "name": "DevilDinosaur",
           "energy": "5",
           "power": "3",
-          "desc": "Ongoing: +2 Power for each card in your hand."
+          "desc": "Ongoing: +2 Power for each card in your hand.",
+          "currentImage": true
         },
         {
           "id": "111",
           "name": "DoctorOctopus",
           "energy": "5",
           "power": "10",
-          "desc": "On Reveal: Pull 4 random cards from y our opponent's hand to their side of this location."
+          "desc": "On Reveal: Pull 4 random cards from y our opponent's hand to their side of this location.",
+          "currentImage": true
         },
         {
           "id": "112",
           "name": "DoctorStrange",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Move your highest power cards to this location."
+          "desc": "On Reveal: Move your highest power cards to this location.",
+          "currentImage": true
         },
         {
           "id": "113",
           "name": "Domino",
           "energy": "2",
           "power": "3",
-          "desc": "You always draw this card on turn 2, and not before."
+          "desc": "You always draw this card on turn 2, and not before.",
+          "currentImage": true
         },
         {
           "id": "114",
           "name": "Dracula",
           "energy": "4",
           "power": "0",
-          "desc": "After the final turn, discard a card from your hand. This has its Power."
+          "desc": "After the final turn, discard a card from your hand. This has its Power.",
+          "currentImage": true
         },
         {
           "id": "115",
           "name": "Drax",
           "energy": "4",
           "power": "4",
-          "desc": "On Reveal: If your opponent played a card here this turn, +4 Power."
+          "desc": "On Reveal: If your opponent played a card here this turn, +4 Power.",
+          "currentImage": true
         },
         {
           "id": "116",
           "name": "DrDoom",
           "energy": "6",
           "power": "5",
-          "desc": "On Reveal: Add a 5-Power Doombot to each other location."
+          "desc": "On Reveal: Add a 5-Power Doombot to each other location.",
+          "currentImage": true
         },
         {
           "id": "117",
           "name": "EbonyMaw",
           "energy": "1",
           "power": "7",
-          "desc": "You can't play this after turn 3. Ongoing: You can't play cards here."
+          "desc": "You can't play this after turn 3. Ongoing: You can't play cards here.",
+          "currentImage": true
         },
         {
           "id": "118",
           "name": "Agent13",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Add a random card to your hand."
+          "desc": "On Reveal: Add a random card to your hand.",
+          "currentImage": true
         },
         {
           "id": "119",
           "name": "Electro",
           "energy": "3",
           "power": "2",
-          "desc": "On Reveal: +1 Max Energy. Ongoing: You can only play 1 card a turn."
+          "desc": "On Reveal: +1 Max Energy. Ongoing: You can only play 1 card a turn.",
+          "currentImage": true
         },
         {
           "id": "120",
           "name": "Elektra",
           "energy": "1",
           "power": "1",
-          "desc": "On Reveal: Destroy a random enemy 1 -Cost card at this location."
+          "desc": "On Reveal: Destroy a random enemy 1 -Cost card at this location.",
+          "currentImage": true
         },
         {
           "id": "121",
           "name": "Enchantress",
           "energy": "4",
           "power": "4",
-          "desc": "On Reveal: Remove the abilities from all Ongoing cards at this location."
+          "desc": "On Reveal: Remove the abilities from all Ongoing cards at this location.",
+          "currentImage": true
         },
         {
           "id": "122",
           "name": "Falcon",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: Return your 1-Cost cards to your hand."
+          "desc": "On Reveal: Return your 1-Cost cards to your hand.",
+          "currentImage": true
         },
         {
           "id": "123",
           "name": "Forge",
           "energy": "2",
           "power": "1",
-          "desc": "On Reveal: Give the next card you play +2 Power."
+          "desc": "On Reveal: Give the next card you play +2 Power.",
+          "currentImage": true
         },
         {
           "id": "124",
           "name": "Gambit",
           "energy": "3",
           "power": "1",
-          "desc": "On Reveal: Discard a card from your hand. Destroy a random enemy card."
+          "desc": "On Reveal: Discard a card from your hand. Destroy a random enemy card.",
+          "currentImage": true
         },
         {
           "id": "125",
           "name": "Gamora",
           "energy": "5",
           "power": "7",
-          "desc": "On Reveal: If your opponent played a card here this turn, +5 Power."
+          "desc": "On Reveal: If your opponent played a card here this turn, +5 Power.",
+          "currentImage": true
         },
         {
           "id": "126",
           "name": "GhostRider",
           "energy": "4",
           "power": "3",
-          "desc": "On Reveal: Bring back one of your discarded cards (to this location)"
+          "desc": "On Reveal: Bring back one of your discarded cards (to this location)",
+          "currentImage": true
         },
         {
           "id": "127",
           "name": "Giganto",
           "energy": "6",
           "power": "14",
-          "desc": "You can only play this at the left location."
+          "desc": "You can only play this at the left location.",
+          "currentImage": true
         },
         {
           "id": "128",
           "name": "Goose",
           "energy": "2",
           "power": "2",
-          "desc": "Ongoing: Nobody can play 4,5 or 6-Cost cards at this location."
+          "desc": "Ongoing: Nobody can play 4,5 or 6-Cost cards at this location.",
+          "currentImage": true
         },
         {
           "id": "129",
           "name": "AmericaChavez",
           "energy": "6",
           "power": "9",
-          "desc": "You always draw this card on turn 6, and not before."
+          "desc": "You always draw this card on turn 6, and not before.",
+          "currentImage": true
         },
         {
           "id": "130",
           "name": "GreenGoblin",
           "energy": "3",
           "power": "-3",
-          "desc": "On Reveal: Your opponent gains control of this."
+          "desc": "On Reveal: Your opponent gains control of this.",
+          "currentImage": true
         },
         {
           "id": "131",
           "name": "Groot",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: If your opponent played a card here this turn, +3 Power."
+          "desc": "On Reveal: If your opponent played a card here this turn, +3 Power.",
+          "currentImage": true
         },
         {
           "id": "132",
           "name": "Hawkeye",
           "energy": "1",
           "power": "1",
-          "desc": "On Reveal: If you play a card here next turn, +2 Power."
+          "desc": "On Reveal: If you play a card here next turn, +2 Power.",
+          "currentImage": true
         },
         {
           "id": "133",
           "name": "Hazmat",
           "energy": "2",
           "power": "1",
-          "desc": "On Reveal: Give all other careds -1 Power."
+          "desc": "On Reveal: Give all other careds -1 Power.",
+          "currentImage": true
         },
         {
           "id": "134",
           "name": "Heimdall",
           "energy": "6",
           "power": "8",
-          "desc": "On Reveal: Move your other cards one location to the left."
+          "desc": "On Reveal: Move your other cards one location to the left.",
+          "currentImage": true
         },
         {
           "id": "135",
           "name": "Hela",
           "energy": "6",
           "power": "6",
-          "desc": "On Reveal: Play all card you discarded from your hand to random locations."
+          "desc": "On Reveal: Play all card you discarded from your hand to random locations.",
+          "currentImage": true
         },
         {
           "id": "136",
           "name": "Hellcow",
           "energy": "4",
           "power": "6",
-          "desc": "On Reveal: Discard 2 cards from your hand."
+          "desc": "On Reveal: Discard 2 cards from your hand.",
+          "currentImage": true
         },
         {
           "id": "137",
           "name": "Hobgoblin",
           "energy": "5",
           "power": "-8",
-          "desc": "On Reveal: Your opponent gains control of this."
+          "desc": "On Reveal: Your opponent gains control of this.",
+          "currentImage": true
         },
         {
           "id": "138",
           "name": "Hood",
           "energy": "-",
           "power": "-2",
-          "desc": "On Reveal: Add a Demon to your hand."
+          "desc": "On Reveal: Add a Demon to your hand.",
+          "currentImage": true
         },
         {
           "id": "139",
           "name": "Hulk",
           "energy": "6",
           "power": "12",
-          "desc": "No abilities"
+          "desc": "No abilities",
+          "currentImage": true
         },
         {
           "id": "140",
           "name": "Angela",
           "energy": "2",
           "power": "1",
-          "desc": "When you play a card here, +2 Power."
+          "desc": "When you play a card here, +2 Power.",
+          "currentImage": true
         },
         {
           "id": "141",
           "name": "Hulkbuster",
           "energy": "3",
           "power": "4",
-          "desc": "On Reveal: Merge this card with a random friendy card at this location."
+          "desc": "On Reveal: Merge this card with a random friendy card at this location.",
+          "currentImage": true
         },
         {
           "id": "142",
           "name": "HumanTorch",
           "energy": "1",
           "power": "2",
-          "desc": "When this moves, double its Power."
+          "desc": "When this moves, double its Power.",
+          "currentImage": true
         },
         {
           "id": "143",
           "name": "Iceman",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Give a random card in your opponent's hand +1 Cost. (maximum 6)"
+          "desc": "On Reveal: Give a random card in your opponent's hand +1 Cost. (maximum 6)",
+          "currentImage": true
         },
         {
           "id": "144",
           "name": "Infinaut",
           "energy": "6",
           "power": "20",
-          "desc": "If you played a card last turn, you can't play this."
+          "desc": "If you played a card last turn, you can't play this.",
+          "currentImage": true
         },
         {
           "id": "145",
           "name": "InvisibleWoman",
           "energy": "2",
           "power": "2",
-          "desc": "Ongoing: Cards you play here are not revealed until the game ends."
+          "desc": "Ongoing: Cards you play here are not revealed until the game ends.",
+          "currentImage": true
         },
         {
           "id": "146",
           "name": "IronFist",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Move the next card you play one location to the left after it reveals."
+          "desc": "On Reveal: Move the next card you play one location to the left after it reveals.",
+          "currentImage": true
         },
         {
           "id": "147",
           "name": "Ironheart",
           "energy": "3",
           "power": "0",
-          "desc": "On Reveal: Give 3 other cards +2 Power."
+          "desc": "On Reveal: Give 3 other cards +2 Power.",
+          "currentImage": true
         },
         {
           "id": "148",
           "name": "IronMan",
           "energy": "5",
           "power": "0",
-          "desc": "Ongoing: Your total Power is doubled at this location."
+          "desc": "Ongoing: Your total Power is doubled at this location.",
+          "currentImage": true
         },
         {
           "id": "149",
           "name": "JaneFoster",
           "energy": "5",
           "power": "8",
-          "desc": "On Reveal: Draw all cards that Cost 0 from  your deck."
+          "desc": "On Reveal: Draw all cards that Cost 0 from  your deck.",
+          "currentImage": true
         },
         {
           "id": "150",
           "name": "JessicaJones",
           "energy": "4",
           "power": "4",
-          "desc": "On Reveal: If you don't play a card here next turn, +4 Power."
+          "desc": "On Reveal: If you don't play a card here next turn, +4 Power.",
+          "currentImage": true
         },
         {
           "id": "151",
           "name": "Angel",
           "energy": "1",
           "power": "2",
-          "desc": "When on of your cards is destroyed, this flies out of your deck to replace it."
+          "desc": "When on of your cards is destroyed, this flies out of your deck to replace it.",
+          "currentImage": true
         },
         {
           "id": "152",
           "name": "Jubilee",
           "energy": "4",
           "power": "1",
-          "desc": "Play a card from your deck at this location."
+          "desc": "Play a card from your deck at this location.",
+          "currentImage": true
         },
         {
           "id": "153",
           "name": "Juggernaut",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: If your opponent played cards here this turn, move them randomly."
+          "desc": "On Reveal: If your opponent played cards here this turn, move them randomly.",
+          "currentImage": true
         },
         {
           "id": "154",
           "name": "Kazar",
           "energy": "4",
           "power": "4",
-          "desc": "Ongoing: Your 1-Cost cards have +1 Power."
+          "desc": "Ongoing: Your 1-Cost cards have +1 Power.",
+          "currentImage": true
         },
         {
           "id": "155",
           "name": "Killmonger",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Destroy ALL 1-Cost cards."
+          "desc": "On Reveal: Destroy ALL 1-Cost cards.",
+          "currentImage": true
         },
         {
           "id": "156",
           "name": "Kingpin",
           "energy": "3",
           "power": "4",
-          "desc": "On Reveal: Next turn, destroy cards that move here."
+          "desc": "On Reveal: Next turn, destroy cards that move here.",
+          "currentImage": true
         },
         {
           "id": "157",
           "name": "Klaw",
           "energy": "5",
           "power": "4",
-          "desc": "Ongoing: The location to the right has +6 Power."
+          "desc": "Ongoing: The location to the right has +6 Power.",
+          "currentImage": true
         },
         {
           "id": "158",
           "name": "Korg",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Shuffle a Rock into your opponent's deck."
+          "desc": "On Reveal: Shuffle a Rock into your opponent's deck.",
+          "currentImage": true
         },
         {
           "id": "159",
           "name": "Kraven",
           "energy": "2",
           "power": "2",
-          "desc": "When a card moves here, this gets +2 Power."
+          "desc": "When a card moves here, this gets +2 Power.",
+          "currentImage": true
         },
         {
           "id": "160",
           "name": "LadySif",
           "energy": "3",
           "power": "4",
-          "desc": "On Reveal: Discard the highest cost card from your hand."
+          "desc": "On Reveal: Discard the highest cost card from your hand.",
+          "currentImage": true
         },
         {
           "id": "161",
           "name": "Leader",
           "energy": "6",
           "power": "4",
-          "desc": "On Reveal: Copy all cards your opponent played this turn, but on your side."
+          "desc": "On Reveal: Copy all cards your opponent played this turn, but on your side.",
+          "currentImage": true
         },
         {
           "id": "162",
           "name": "Ant-man",
           "energy": "1",
           "power": "1",
-          "desc": "Ongoing: If you have 3 other cards here, +3 Power."
+          "desc": "Ongoing: If you have 3 other cards here, +3 Power.",
+          "currentImage": true
         },
         {
           "id": "163",
           "name": "Leech",
           "energy": "5",
           "power": "3",
-          "desc": "On Reveal: Remove the abilities from all cards in your opponent's hand."
+          "desc": "On Reveal: Remove the abilities from all cards in your opponent's hand.",
+          "currentImage": true
         },
         {
           "id": "164",
           "name": "Lizard",
           "energy": "2",
           "power": "5",
-          "desc": "Ongoing: -3 Power if your opponent has 4 cards here."
+          "desc": "Ongoing: -3 Power if your opponent has 4 cards here.",
+          "currentImage": true
         },
         {
           "id": "165",
           "name": "Lockjaw",
           "energy": "3",
           "power": "2",
-          "desc": "When you play a card here, swap it with a card in your deck."
+          "desc": "When you play a card here, swap it with a card in your deck.",
+          "currentImage": true
         },
         {
           "id": "166",
           "name": "Magik",
           "energy": "5",
           "power": "3",
-          "desc": "On Reveal: Change this location to 'Limbo'."
+          "desc": "On Reveal: Change this location to 'Limbo'.",
+          "currentImage": true
         },
         {
           "id": "167",
           "name": "Magneto",
           "energy": "6",
           "power": "12",
-          "desc": "On Reveal: Move all opposing 3 and 4 cost cards to this location"
+          "desc": "On Reveal: Move all opposing 3 and 4 cost cards to this location",
+          "currentImage": true
         },
         {
           "id": "168",
           "name": "Mantis",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: If your opponent played a card here this turn, draw a card from their deck."
+          "desc": "On Reveal: If your opponent played a card here this turn, draw a card from their deck.",
+          "currentImage": true
         },
         {
           "id": "169",
           "name": "Maximus",
           "energy": "3",
           "power": "7",
-          "desc": "On Reveal: Your opponent draws 2 cards."
+          "desc": "On Reveal: Your opponent draws 2 cards.",
+          "currentImage": true
         },
         {
           "id": "170",
           "name": "Medusa",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: If this is at the middle location, +2 Power."
+          "desc": "On Reveal: If this is at the middle location, +2 Power.",
+          "currentImage": true
         },
         {
           "id": "171",
           "name": "MistyKnight",
           "energy": "1",
           "power": "2",
-          "desc": "No abilities"
+          "desc": "No abilities",
+          "currentImage": true
         },
         {
           "id": "172",
           "name": "Mojo",
           "energy": "2",
           "power": "2",
-          "desc": "Ongoing: If both players have 4 cards at this location, +6 Power."
+          "desc": "Ongoing: If both players have 4 cards at this location, +6 Power.",
+          "currentImage": true
         },
         {
           "id": "173",
           "name": "NickFury",
           "energy": "5",
           "power": "7",
-          "desc": "On Reveal: Add 3 random 6-Cost cards to your hand"
+          "desc": "On Reveal: Add 3 random 6-Cost cards to your hand",
+          "currentImage": true
         },
         {
           "id": "174",
           "name": "MilesMorales",
           "energy": "4",
           "power": "5",
-          "desc": "If a card moved last turn, this costs 0."
+          "desc": "If a card moved last turn, this costs 0.",
+          "currentImage": true
         }        
       ]
     }
