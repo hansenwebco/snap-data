@@ -92,7 +92,7 @@
           "energy": "5",
           "power": "9",
           "desc": "No abilities",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "2",
@@ -100,7 +100,7 @@
           "energy": "6",
           "power": "8",
           "desc": "When you discard this from your hand, put it back with +4 Power.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "3",
@@ -108,7 +108,7 @@
           "energy": "4",
           "power": "4",
           "desc": "On Reveal: Duplicate your hand.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "4",
@@ -116,7 +116,7 @@
           "energy": "3",
           "power": "3",
           "desc": "On Reveal: Discard a card from each player's hand.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "5",
@@ -124,7 +124,7 @@
           "energy": "2",
           "power": "0",
           "desc": "Ongoing: +2 Power for each card you discarded from  your hand this game.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "6",
@@ -132,7 +132,7 @@
           "energy": "3",
           "power": "0",
           "desc": "On Reveal: Become a copy of a random card in your opponent's hand.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "7",
@@ -140,7 +140,7 @@
           "energy": "3",
           "power": "2",
           "desc": "Ongoing: Adjacent locations have +2 Power.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "8",
@@ -148,7 +148,7 @@
           "energy": "4",
           "power": "1",
           "desc": "On Reveal: Swap the Power and Cost of all cards in your deck.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "9",
@@ -156,7 +156,7 @@
           "energy": "2",
           "power": "2",
           "desc": "On Reveal: Add a Sinister Clone to this location with the same Power.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "10",
@@ -164,7 +164,7 @@
           "energy": "2",
           "power": "3",
           "desc": "When this moves, add a copy to the old location.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "11",
@@ -172,7 +172,7 @@
           "energy": "2",
           "power": "5",
           "desc": "Which is the real Mysterio? The real one has 5 Power.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "12",
@@ -180,7 +180,7 @@
           "energy": "3",
           "power": "0",
           "desc": "On Reveal: If the last card you played has an Ongoing ability, this card gains it.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "13",
@@ -188,7 +188,7 @@
           "energy": "2",
           "power": "3",
           "desc": "On going: Cards at this location can't be destroyed.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "14",
@@ -196,7 +196,7 @@
           "energy": "3",
           "power": "1",
           "desc": "On Reveal: Give 2 cards in your hand +2 Power.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "15",
