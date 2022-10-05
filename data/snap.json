@@ -91,21 +91,24 @@
           "name": "Abomination",
           "energy": "5",
           "power": "9",
-          "desc": "No abilities"
+          "desc": "No abilities",
+          "currentImage": true
         },
         {
           "id": "2",
           "name": "Apocalypse",
           "energy": "6",
           "power": "8",
-          "desc": "When you discard this from your hand, put it back with +4 Power."
+          "desc": "When you discard this from your hand, put it back with +4 Power.",
+          "currentImage": true
         },
         {
           "id": "3",
           "name": "MoonGirl",
           "energy": "4",
           "power": "4",
-          "desc": "On Reveal: Duplicate your hand."
+          "desc": "On Reveal: Duplicate your hand.",
+          "currentImage": true
         },
         {
           "id": "4",
