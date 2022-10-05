@@ -92,7 +92,7 @@
           "energy": "5",
           "power": "9",
           "desc": "No abilities",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "2",
@@ -100,7 +100,7 @@
           "energy": "6",
           "power": "8",
           "desc": "When you discard this from your hand, put it back with +4 Power.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "3",
@@ -108,7 +108,7 @@
           "energy": "4",
           "power": "4",
           "desc": "On Reveal: Duplicate your hand.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "4",
@@ -116,7 +116,7 @@
           "energy": "3",
           "power": "3",
           "desc": "On Reveal: Discard a card from each player's hand.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "5",
@@ -124,7 +124,7 @@
           "energy": "2",
           "power": "0",
           "desc": "Ongoing: +2 Power for each card you discarded from  your hand this game.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "6",
@@ -132,7 +132,7 @@
           "energy": "3",
           "power": "0",
           "desc": "On Reveal: Become a copy of a random card in your opponent's hand.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "7",
@@ -140,13 +140,13 @@
           "energy": "3",
           "power": "2",
           "desc": "Ongoing: Adjacent locations have +2 Power.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "8",
           "name": "MrNegative",
           "energy": "4",
-          "power": "1",
+          "power": "-1",
           "desc": "On Reveal: Swap the Power and Cost of all cards in your deck.",
           "currentImage": false
         },
@@ -156,7 +156,7 @@
           "energy": "2",
           "power": "2",
           "desc": "On Reveal: Add a Sinister Clone to this location with the same Power.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "10",
@@ -164,7 +164,7 @@
           "energy": "2",
           "power": "3",
           "desc": "When this moves, add a copy to the old location.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "11",
@@ -172,7 +172,7 @@
           "energy": "2",
           "power": "5",
           "desc": "Which is the real Mysterio? The real one has 5 Power.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "12",
@@ -180,7 +180,7 @@
           "energy": "3",
           "power": "0",
           "desc": "On Reveal: If the last card you played has an Ongoing ability, this card gains it.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "13",
@@ -188,15 +188,15 @@
           "energy": "2",
           "power": "3",
           "desc": "On going: Cards at this location can't be destroyed.",
-          "currentImage": false
+          "currentImage": true
         },
         {
           "id": "14",
           "name": "Nakia",
           "energy": "3",
           "power": "1",
-          "desc": "On Reveal: Give 2 cards in your hand +2 Power.",
-          "currentImage": false
+          "desc": "On Reveal: Give the 2 leftmost cards in your hand +2 Power.",
+          "currentImage": true
         },
         {
           "id": "15",
@@ -275,7 +275,7 @@
           "name": "ArnimZola",
           "energy": "6",
           "power": "0",
-          "desc": "On Reveal: Destroy a random friendly card here; add copies of it to the other locations.",
+          "desc": "On Reveal: Destroy a random friendly card here. Add copies of it to the other locations.",
           "currentImage": true
         },
         {
@@ -386,9 +386,9 @@
           "id": "38",
           "name": "Ronan",
           "energy": "5",
-          "power": "0",
-          "desc": "Ongoing: +3 Power for each card in your opponent's hand.",
-          "currentImage": true
+          "power": "3",
+          "desc": "Ongoing: +2 Power for each card in your opponent's hand.",
+          "currentImage": false
         },
         {
           "id": "39",
@@ -540,7 +540,7 @@
           "energy": "3",
           "power": "2",
           "desc": "When you play a card, this gains +1 Power.",
-          "currentImage": true
+          "currentImage": false
         },
         {
           "id": "58",
@@ -811,7 +811,7 @@
           "name": "CaptainMarvel",
           "energy": "5",
           "power": "6",
-          "desc": "After the final turn, move to a location that wins you the game (if possible)",
+          "desc": "At the end of the game, move to a location that wins you the game. (If possible)",
           "currentImage": true
         },
         {
@@ -995,7 +995,7 @@
           "name": "Dracula",
           "energy": "4",
           "power": "0",
-          "desc": "After the final turn, discard a card from your hand. This has its Power.",
+          "desc": "At the end of the game, discard a card from your hand. This has its Power.",
           "currentImage": true
         },
         {
@@ -1091,7 +1091,7 @@
           "name": "GhostRider",
           "energy": "4",
           "power": "3",
-          "desc": "On Reveal: Bring back one of your discarded cards (to this location)",
+          "desc": "On Reveal: Bring back one of your discarded cards to this location.",
           "currentImage": true
         },
         {
@@ -1107,7 +1107,7 @@
           "name": "Goose",
           "energy": "2",
           "power": "2",
-          "desc": "Ongoing: Nobody can play 4,5 or 6-Cost cards at this location.",
+          "desc": "Cards that cost 1, 2, or 3 can't be played here.",
           "currentImage": true
         },
         {
@@ -1147,7 +1147,7 @@
           "name": "Hazmat",
           "energy": "2",
           "power": "1",
-          "desc": "On Reveal: Give all other careds -1 Power.",
+          "desc": "On Reveal: Afflict all other cards -1 Power.",
           "currentImage": true
         },
         {
@@ -1259,7 +1259,7 @@
           "name": "Ironheart",
           "energy": "3",
           "power": "0",
-          "desc": "On Reveal: Give 3 other cards +2 Power.",
+          "desc": "On Reveal: Give 3 other friendly cards +2 Power.",
           "currentImage": true
         },
         {
@@ -1411,7 +1411,7 @@
           "name": "Magik",
           "energy": "5",
           "power": "3",
-          "desc": "On Reveal: Change this location to 'Limbo'.",
+          "desc": "You can't play this on turn 6. On Reveal: Change this location to Limbo.",
           "currentImage": true
         },
         {
