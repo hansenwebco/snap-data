@@ -346,7 +346,47 @@
           "id": "68",
           "name": "Grand Central",
           "desc": "After turn 5, put a card from each player's hand here."
-        }             
+        },
+        {
+          "id": "69",
+          "name": "Attilan",
+          "desc": "If you don't have a card here, you can't play anywhere else."
+        },
+        {
+          "id": "70",
+          "name": "The Raft",
+          "desc": "First to fill this draws a 6-cost card. It costs 0."
+        },
+        {
+          "id": "71",
+          "name": "The Triskelion",
+          "desc": "Fill each player's hand with random cards"
+        },
+        {
+          "id": "72",
+          "name": "Luke's Bar",
+          "desc": "When you play a card here, return it to your hand."
+        },                
+        {
+          "id": "-1",
+          "name": "Fisk Tower",
+          "desc": "When a card moves here, destroy it."
+        },
+        {
+          "id": "-1",
+          "name": "Gamma Lab",
+          "desc": "After turn 3, transform all cards here into the Hulk."
+        },
+        {
+          "id": "-1",
+          "name": "Project Pegasus",
+          "desc": "+5 Energy this turn."
+        },
+        {
+          "id": "-1",
+          "name": "The Peak",
+          "desc": "Each card in your hand swaps its Power and Cost."
+        }                           
       ]
     },
     "cards": {
