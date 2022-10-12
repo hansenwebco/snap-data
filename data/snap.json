@@ -386,7 +386,12 @@
           "id": "-1",
           "name": "The Peak",
           "desc": "Each card in your hand swaps its Power and Cost."
-        }                           
+        },
+        {
+          "id": "-1",
+          "name": "Oscorp Tower",
+          "desc": "Afer turn 3, all cards here swap sides."
+        }                             
       ]
     },
     "cards": {
