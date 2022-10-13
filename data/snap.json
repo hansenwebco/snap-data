@@ -1969,7 +1969,7 @@
         },
         {
           "id": "175",
-          "name": "StoneDonkey",
+          "name": "Stone Donkey",
           "energy": "6",
           "power": "4",
           "desc": "I made this.  Never verified.",
@@ -1982,7 +1982,7 @@
           "name": "Mister Metal",
           "energy": "66",
           "power": "6",
-          "desc": "\"The Face of Marvel Snap\" On Reveal: Swipe your credit card, $1 per power.",
+          "desc": "\"The Face of Marvel Snap\" On Reveal: Swipe your credit card, one dollar per power.",
           "currentImage": true,
           "released": false
         }                           
