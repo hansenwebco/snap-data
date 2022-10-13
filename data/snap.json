@@ -703,7 +703,7 @@
           "name": "RocketRaccoon",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Shuffle 2 useless Rocks into your opponents deck.",
+          "desc": "On Reveal: If your opponent played a card here this turn, +2 Power",
           "currentImage": true,
           "released": true
         },
@@ -721,7 +721,7 @@
           "name": "Rockslide",
           "energy": "4",
           "power": "6",
-          "desc": "On Reveal: If your opponent played a card here this turn, +2 Power",
+          "desc": "On Reveal: Shuffle 2 useless Rocks into your opponents deck.",
           "currentImage": true,
           "released": true
         },
@@ -1549,7 +1549,7 @@
           "name": "Goose",
           "energy": "2",
           "power": "2",
-          "desc": "Cards that cost 1, 2, or 3 can't be played here.",
+          "desc": "Ongoing:  Nobody can play cards that cost 4, 5, or 6 at this location.",
           "currentImage": true,
           "released": true
         },
