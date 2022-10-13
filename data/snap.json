@@ -1975,7 +1975,17 @@
           "desc": "I made this.  Never verified.",
           "currentImage": true,
           "released": false
-        }                  
+        }
+        ,
+        {
+          "id": "176",
+          "name": "Mister Metal",
+          "energy": "66",
+          "power": "6",
+          "desc": "\"The Face of Marvel Snap\" On Reveal: Swipe your credit card, $1 per power.",
+          "currentImage": true,
+          "released": false
+        }                           
       ]
     }
   }
