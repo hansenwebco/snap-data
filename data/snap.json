@@ -391,7 +391,12 @@
           "id": "-1",
           "name": "Oscorp Tower",
           "desc": "Afer turn 3, all cards here swap sides."
-        }                             
+        },
+        {
+          "id": "-1",
+          "name": "The Nexus",
+          "desc": "Your Power here is granted to other locations as well."
+        }                              
       ]
     },
     "cards": {
