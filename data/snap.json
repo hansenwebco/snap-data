@@ -1975,17 +1975,25 @@
           "desc": "I made this.  Never verified.",
           "currentImage": true,
           "released": false
-        }
-        ,
+        },
         {
           "id": "176",
           "name": "Mister Metal",
           "energy": "66",
           "power": "6",
-          "desc": "\"The Face of Marvel Snap\" On Reveal: Swipe your credit card, one dollar per power.",
+          "desc": "\"The Face of Marvel Snap\" On Reveal: Swipe your credit card.\ntwitch.tv\\Mister_Metal",
           "currentImage": true,
           "released": false
-        }                           
+        },
+        {
+          "id": "177",
+          "name": "Valinthyne",
+          "energy": "6",
+          "power": "66",
+          "desc": "Resident DJ and the Minister of Mustache.\ntwitch.tv/valintyhne",
+          "currentImage": true,
+          "released": false
+        }                             
       ]
     }
   }
