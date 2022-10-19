@@ -1993,7 +1993,502 @@
           "desc": "Resident DJ and the Minister of Mustache.\nhttps://twitch.tv/valintyhne",
           "currentImage": true,
           "released": false
-        }                             
+        },
+        {
+          "id": "178",
+          "name": "Absorbing Man",
+          "energy": "4",
+          "power": "3",
+          "desc": "On Reveal: If the last card you played has an On Reveal ability, this card copies it.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "179",
+          "name": "Agent Coulson",
+          "energy": "3",
+          "power": "4",
+          "desc": "On Reveal: Add a random 4-cost and 5-cost card to your hand.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "180",
+          "name": "Attuma",
+          "energy": "4",
+          "power": "10",
+          "desc": "If you have another card here at the end of your turn, destroy this.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "181",
+          "name": "Bast",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: Set the Power of all cards in your hand to 3.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "182",
+          "name": "Black Knight",
+          "energy": "1",
+          "power": "2",
+          "desc": "When this is destroyed, draw a card.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "183",
+          "name": "Black Panther",
+          "energy": "5",
+          "power": "4",
+          "desc": "On Reveal: Double this card's Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "184",
+          "name": "Blink",
+          "energy": "3",
+          "power": "1",
+          "desc": "You can move this each turn. When it moves, +1 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "185",
+          "name": "Blob",
+          "energy": "3",
+          "power": "1",
+          "desc": "Ongoing: Nothing can move this to another location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "186",
+          "name": "Bullseye",
+          "energy": "1",
+          "power": "2",
+          "desc": "On Reveal: The next card you draw will be a 2-Cost card. (if any are left)",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "187",
+          "name": "Darkhawk",
+          "energy": "1",
+          "power": "2",
+          "desc": "You can only play this at locations where you already have a card.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "188",
+          "name": "Darkhawk",
+          "energy": "1",
+          "power": "3",
+          "desc": "You can only play this at locations where you already have a card.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "190",
+          "name": "Elsa Bloodstone",
+          "energy": "1",
+          "power": "1",
+          "desc": "At the end of each turn, if you are winning this location, +1 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "191",
+          "name": "Flatman",
+          "energy": "2",
+          "power": "2",
+          "desc": "Ongoing: Adjacent locations have +1 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "192",
+          "name": "Galactus",
+          "energy": "6",
+          "power": "3",
+          "desc": "On Reveal: If this is your only card here, destroy all other locations.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "193",
+          "name": "Ghost-Spider",
+          "energy": "2",
+          "power": "2",
+          "desc": "On Reveal: Move the last card you played here.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "194",
+          "name": "Goblin Queen",
+          "energy": "2",
+          "power": "3",
+          "desc": "On Reveal: Other cards can't be revealed this turn.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "195",
+          "name": "Gwenpool",
+          "energy": "2",
+          "power": "1",
+          "desc": "On Reveal: Double this card's Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "196",
+          "name": "Helicarrier",
+          "energy": "6",
+          "power": "10",
+          "desc": "When you discard this from your hand, add 3 random cards.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "197",
+          "name": "Hit-Monkey",
+          "energy": "2",
+          "power": "0",
+          "desc": "On Reveal: Gain +3 Power for each other card you played this turn.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "198",
+          "name": "Jean Grey",
+          "energy": "3",
+          "power": "3",
+          "desc": "On Reveal: The next card your opponent plays must be played here, if possible.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "199",
+          "name": "Kang The Conqueror",
+          "energy": "5",
+          "power": "0",
+          "desc": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "200",
+          "name": "King Eitri",
+          "energy": "5",
+          "power": "3",
+          "desc": "On Reveal: Give the next card you play +4 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "201",
+          "name": "Kitty Pryde",
+          "energy": "1",
+          "power": "2",
+          "desc": "You can pull this back to your hand at any time.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "202",
+          "name": "Lady Deathstrike",
+          "energy": "6",
+          "power": "4",
+          "desc": "On Reveal: Destroy the enemy card with the highest Power at this location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "203",
+          "name": "Legion",
+          "energy": "5",
+          "power": "4",
+          "desc": "On Reveal: Change other locations into this location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "204",
+          "name": "Luke Cage",
+          "energy": "2",
+          "power": "1",
+          "desc": "Ongoing: Your cards can't have their Power reduced.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "205",
+          "name": "Makkari",
+          "energy": "0",
+          "power": "2",
+          "desc": "When you draw this, place it at a random location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "206",
+          "name": "M'Baku",
+          "energy": "1",
+          "power": "2",
+          "desc": "If this is in your deck after the final turn, it jumps to a random location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "207",
+          "name": "MODOK",
+          "energy": "5",
+          "power": "8",
+          "desc": "On Reveal: Discard your hand.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "208",
+          "name": "Maria Hill",
+          "energy": "2",
+          "power": "3",
+          "desc": "On Reveal: Add a random 1-Cost card to your hand.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "209",
+          "name": "Master Mold",
+          "energy": "3",
+          "power": "3",
+          "desc": "On Reveal: Add 3 Sentinel to your opponent's hand.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "210",
+          "name": "Mephisto",
+          "energy": "6",
+          "power": "0",
+          "desc": "If you win this game, double your winnings.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "211",
+          "name": "Mephisto",
+          "energy": "6",
+          "power": "0",
+          "desc": "If you win this game, double your winnings.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "212",
+          "name": "Mind Stone",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: Draw 2 Stones from your deck.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "213",
+          "name": "Mirage",
+          "energy": "4",
+          "power": "5",
+          "desc": "As you play this, disguise it as Mister Fantastic. After the final turn, reveal it.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "214",
+          "name": "Ms. Marvel",
+          "energy": "3",
+          "power": "4",
+          "desc": "Ongoing: If this is your only card here, adjacent locations have +5 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "215",
+          "name": "Nebula",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: If your opponent played a card here this turn, x2 Power and put this in your hand.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "216",
+          "name": "Negasonic Teenage Warhead",
+          "energy": "3",
+          "power": "2",
+          "desc": "When any card is played here, destroy this card AND that card.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "217",
+          "name": "Night Nurse",
+          "energy": "2",
+          "power": "2",
+          "desc": "On Reveal: Add all cards you discarded or destroyed last turn to your hand.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "218",
+          "name": "Orka",
+          "energy": "6",
+          "power": "9",
+          "desc": "Ongoing: +5 Power if this is your only card here.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "219",
+          "name": "Phoenix Force",
+          "energy": "6",
+          "power": "3",
+          "desc": "On Reveal: Revive one of your destroyed cards with +5 Power. If it’s Jean Grey, +10 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "220",
+          "name": "Phoenix Force",
+          "energy": "1",
+          "power": "3",
+          "desc": "Ongoing: If you've played all 6 stones, Thanos has +10 Power. (wherever he is)",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "221",
+          "name": "Reality Stone",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: Transform this location into a new one. Draw a card.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "222",
+          "name": "Red Guardian",
+          "energy": "3",
+          "power": "6",
+          "desc": "On Reveal: You must play a card here next turn.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "223",
+          "name": "Sauron",
+          "energy": "3",
+          "power": "3",
+          "desc": "On Reveal: Remove the Ongoing abilities from all cards in your hand and deck.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "224",
+          "name": "Sentry",
+          "energy": "4",
+          "power": "10",
+          "desc": "On Reveal: Add The Void (7-Power) to your opponent's side of this location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "225",
+          "name": "Shadow King",
+          "energy": "6",
+          "power": "4",
+          "desc": "On Reveal: Destroy all other cards that have 2 or less Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "226",
+          "name": "Shanna",
+          "energy": "3",
+          "power": "4",
+          "desc": "When you discard a card from your hand, move this to a random location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "227",
+          "name": "She Hulk",
+          "energy": "6",
+          "power": "10",
+          "desc": "Costs 1 less for each unspent Energy last turn.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "228",
+          "name": "Shuri",
+          "energy": "4",
+          "power": "2",
+          "desc": "On Reveal: Double the Power of the next card you play.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "229",
+          "name": "Silk",
+          "energy": "2",
+          "power": "5",
+          "desc": "When anyone plays a card here, move this to another location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "230",
+          "name": "Silver Sable",
+          "energy": "2",
+          "power": "6",
+          "desc": "You can only play this at a location where you have 6+ total Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "231",
+          "name": "Silver Samurai",
+          "energy": "1",
+          "power": "2",
+          "desc": "When this is discarded from your hand, draw a card.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "232",
+          "name": "Kawatek",
+          "energy": "2",
+          "power": "1",
+          "desc": "Hot Young Actor & Jeopardy Host.\nhttps://www.twitch.tv/kawatek",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "233",
+          "name": "Loot Muncher",
+          "energy": "3",
+          "power": "3",
+          "desc": "On Reveal add 1 random \"Cube Rusher\" to your hand.\nhttps://www.twitch.tv/lootmuncher0",
+          "currentImage": true,
+          "released": false
+        }
       ]
     }
   }
