@@ -195,7 +195,7 @@
         {
           "id": "39",
           "name": "The Vault",
-          "desc": "On turn 6, cards can’t be played here."
+          "desc": "On turn 6, cards can't be played here."
         },
         {
           "id": "40",
@@ -2094,6 +2094,15 @@
           "released": false
         },
         {
+          "id": "189",
+          "name": "Dazzler",
+          "energy": "4",
+          "power": "4",
+          "desc": "Ongoing: If you have 4 cards at each location, +8 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
           "id": "190",
           "name": "Elsa Bloodstone",
           "energy": "1",
@@ -2486,6 +2495,186 @@
           "energy": "3",
           "power": "3",
           "desc": "On Reveal add 1 random \"Cube Rusher\" to your hand.\nhttps://www.twitch.tv/lootmuncher0",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "234",
+          "name": "Silver Surfer",
+          "energy": "4",
+          "power": "0",
+          "desc": "On Reveal: Double the power",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "235",
+          "name": "Snowguard",
+          "energy": "1",
+          "power": "2",
+          "desc": "If you haven’t played this by turn 3, transform into a random spirit animal.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "236",
+          "name": "Soul Stone",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: Draw a card. Ongoing: Enemy cards here have -1 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "237",
+          "name": "Space Stone",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: Next turn you can move 1 card at this location. Draw a card.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "238",
+          "name": "Stryfe",
+          "energy": "3",
+          "power": "7",
+          "desc": "If your opponent has 12+ Power here at the end of any turn, destroy this.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "239",
+          "name": "Super Skrull",
+          "energy": "4",
+          "power": "2",
+          "desc": "Ongoing: Has the Ongoing effects of all enemy cards.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "240",
+          "name": "Surtur",
+          "energy": "5",
+          "power": "0",
+          "desc": "If you move the Human Torch to this location, +10 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "241",
+          "name": "Thanos",
+          "energy": "6",
+          "power": "8",
+          "desc": "At the start of the game, shuffle the six Infinity Stones into your deck.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "242",
+          "name": "The Living Tribunal",
+          "energy": "6",
+          "power": "4",
+          "desc": "At the end of the game, split your total Power evenly among all Locations.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "243",
+          "name": "Titania",
+          "energy": "1",
+          "power": "5",
+          "desc": "When ANY card is played at this location, this card switches sides.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "244",
+          "name": "Toad",
+          "energy": "2",
+          "power": "3",
+          "desc": "On Reveal: Move the last card you played to this location.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "245",
+          "name": "Uncle Ben",
+          "energy": "1",
+          "power": "2",
+          "desc": "When this card is destroyed, add Spider-Man to your hand.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "246",
+          "name": "Valkyrie",
+          "energy": "5",
+          "power": "3",
+          "desc": "On Reveal: Set ALL cards at this location to 3 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "247",
+          "name": "Viv Vision",
+          "energy": "2",
+          "power": "3",
+          "desc": "When you move a card to a location, move this card.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "248",
+          "name": "War Machine",
+          "energy": "4",
+          "power": "5",
+          "desc": "Ongoing: Your 1-Cost cards have +1 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "249",
+          "name": "Witchfire",
+          "energy": "2",
+          "power": "3",
+          "desc": "On Reveal: Your opponent draws a card, increase its cost by 1.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "249",
+          "name": "Witchfire",
+          "energy": "2",
+          "power": "3",
+          "desc": "On Reveal: Your opponent draws a card, increase its cost by 1.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "250",
+          "name": "X-23",
+          "energy": "3",
+          "power": "3",
+          "desc": "When this is discarded from your hand, put it back. It costs 0.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "251",
+          "name": "Yo Yo",
+          "energy": "1",
+          "power": "2",
+          "desc": "When this card moves, move it back with +1 Power.",
+          "currentImage": true,
+          "released": false
+        },
+        {
+          "id": "252",
+          "name": "Zabu",
+          "energy": "5",
+          "power": "7",
+          "desc": "If this is in your hand when you discard a card, put that card back and discard this instead.",
           "currentImage": true,
           "released": false
         }
