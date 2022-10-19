@@ -2677,6 +2677,15 @@
           "desc": "If this is in your hand when you discard a card, put that card back and discard this instead.",
           "currentImage": true,
           "released": false
+        },
+        {
+          "id": "253",
+          "name": "Willow Snapping",
+          "energy": "6",
+          "power": "3",
+          "desc": "On Reveal: Delay Galactus 1 Month.\nhttps://www.twitch.tv/willowsnapping",
+          "currentImage": true,
+          "released": false
         }
       ]
     }
