@@ -96,7 +96,7 @@
           "id": "19",
           "name": "New York",
           "desc": "On turn 6, you can move cards to this location."
-        },           
+        },
         {
           "id": "20",
           "name": "Nova Roma",
@@ -366,7 +366,7 @@
           "id": "72",
           "name": "Luke's Bar",
           "desc": "When you play a card here, return it to your hand."
-        },                
+        },
         {
           "id": "-1",
           "name": "Fisk Tower",
@@ -396,7 +396,7 @@
           "id": "-1",
           "name": "The Nexus",
           "desc": "Your Power here is granted to other locations as well."
-        }                              
+        }
       ]
     },
     "cards": {
@@ -408,7 +408,8 @@
           "power": "9",
           "desc": "No abilities",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "2",
@@ -417,7 +418,8 @@
           "power": "8",
           "desc": "When you discard this from your hand, put it back with +4 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "3",
@@ -426,7 +428,8 @@
           "power": "4",
           "desc": "On Reveal: Duplicate your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "4",
@@ -435,7 +438,8 @@
           "power": "3",
           "desc": "On Reveal: Discard a card from each player's hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "5",
@@ -444,7 +448,8 @@
           "power": "0",
           "desc": "Ongoing: +2 Power for each card you discarded from  your hand this game.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "6",
@@ -453,7 +458,8 @@
           "power": "0",
           "desc": "On Reveal: Become a copy of a random card in your opponent's hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "7",
@@ -462,7 +468,8 @@
           "power": "2",
           "desc": "Ongoing: Adjacent locations have +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "8",
@@ -471,7 +478,8 @@
           "power": "-1",
           "desc": "On Reveal: Swap the Power and Cost of all cards in your deck.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "9",
@@ -480,7 +488,8 @@
           "power": "2",
           "desc": "On Reveal: Add a Sinister Clone to this location with the same Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "10",
@@ -489,7 +498,8 @@
           "power": "3",
           "desc": "When this moves, add a copy to the old location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "11",
@@ -498,7 +508,8 @@
           "power": "5",
           "desc": "Which is the real Mysterio? The real one has 5 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "12",
@@ -507,7 +518,8 @@
           "power": "0",
           "desc": "On Reveal: If the last card you played has an Ongoing ability, this card gains it.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "13",
@@ -516,7 +528,8 @@
           "power": "3",
           "desc": "On going: Cards at this location can't be destroyed.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "14",
@@ -525,7 +538,8 @@
           "power": "1",
           "desc": "On Reveal: Give the 2 leftmost cards in your hand +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "15",
@@ -534,7 +548,8 @@
           "power": "5",
           "desc": "Ongoing: +5 Power if this is your only card here.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "16",
@@ -543,7 +558,8 @@
           "power": "2",
           "desc": "You can move this once.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "17",
@@ -552,7 +568,8 @@
           "power": "2",
           "desc": "When this is destroyed, give your cards +1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "18",
@@ -561,7 +578,8 @@
           "power": "8",
           "desc": "On Reveal: Activate the On Reveal abilities of your other cards at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "19",
@@ -570,7 +588,8 @@
           "power": "2",
           "desc": "On Reveal: Give every card in your deck +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "20",
@@ -579,7 +598,8 @@
           "power": "5",
           "desc": "Ongoing: If you're ahead by 10 Power here, +4 Power to other locations.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "21",
@@ -588,7 +608,8 @@
           "power": "7",
           "desc": "Ongoing: Double your other Ongoing effects at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "22",
@@ -597,7 +618,8 @@
           "power": "1",
           "desc": "Ongoing: Your cards with no abilities have +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "23",
@@ -606,7 +628,8 @@
           "power": "5",
           "desc": "On Reveal: Move an opposing 1 or 2-Cost card to this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "24",
@@ -615,7 +638,8 @@
           "power": "0",
           "desc": "On Reveal: Destroy a random friendly card here. Add copies of it to the other locations.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "25",
@@ -624,7 +648,8 @@
           "power": "3",
           "desc": "Ongoing: Lock down this location. (Cards can't be added, removed, etc.)",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "26",
@@ -633,7 +658,8 @@
           "power": "1",
           "desc": "On Reveal: Next turn, you get +1 Energy",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "27",
@@ -642,7 +668,8 @@
           "power": "2",
           "desc": "Ongoing: +1 Power for each opposing card at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "28",
@@ -651,7 +678,8 @@
           "power": "3",
           "desc": "On Reveal: If this is at the middle location, swap the positions of each location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "29",
@@ -660,7 +688,8 @@
           "power": "2",
           "desc": "Starts in your opening hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "30",
@@ -669,7 +698,8 @@
           "power": "2",
           "desc": "Ongoing: Cards that didn't start in your deck cost 1 less.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "31",
@@ -678,7 +708,8 @@
           "power": "15",
           "desc": "Ongoing: Enemy cards at this location have +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "32",
@@ -687,7 +718,8 @@
           "power": "4",
           "desc": "On Reveal: If you play a card here next turn, +5 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "33",
@@ -696,7 +728,8 @@
           "power": "3",
           "desc": "On Reveal: Ruin this location. (remove its ability)",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "34",
@@ -705,7 +738,8 @@
           "power": "2",
           "desc": "On Reveal: If your opponent played a card here this turn, +2 Power",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "35",
@@ -714,7 +748,8 @@
           "power": "3",
           "desc": "On Reveal: Your opponent draws a card. Set its Cost to 6.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "36",
@@ -723,7 +758,8 @@
           "power": "6",
           "desc": "On Reveal: Shuffle 2 useless Rocks into your opponents deck.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "37",
@@ -732,7 +768,8 @@
           "power": "1",
           "desc": "On Reveal: Steal an Ongoing ability from a random enemy card at this location",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "38",
@@ -741,7 +778,8 @@
           "power": "3",
           "desc": "Ongoing: +2 Power for each card in your opponent's hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "39",
@@ -750,7 +788,8 @@
           "power": "4",
           "desc": "When this is destroyed, return it to your hand. It costs 0.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "40",
@@ -759,7 +798,8 @@
           "power": "1",
           "desc": "Ongoing: Players can only play 1 card a turn.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "41",
@@ -768,7 +808,8 @@
           "power": "3",
           "desc": "On Reveal: Replace this location with a random new one.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "42",
@@ -777,7 +818,8 @@
           "power": "2",
           "desc": "On Reveal: Afflict cards in your opponent's hand with -1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "43",
@@ -786,7 +828,8 @@
           "power": "3",
           "desc": "On Reveal: Add another Sentinel to your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "44",
@@ -795,7 +838,8 @@
           "power": "5",
           "desc": "Ongoing: Cards in  your hand cost 1 less. (minimum 1)",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "45",
@@ -804,7 +848,8 @@
           "power": "3",
           "desc": "On Reveal: Destroy all enemy cards at this location that have 9 or more Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "46",
@@ -813,7 +858,8 @@
           "power": "2",
           "desc": "On Reveal: Return your other cards at this location to your hand. They cost 1 less.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "47",
@@ -822,7 +868,8 @@
           "power": "3",
           "desc": "No abilities",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "48",
@@ -831,7 +878,8 @@
           "power": "6",
           "desc": "On Reveal: Give your Ongoing cards +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "49",
@@ -840,7 +888,8 @@
           "power": "3",
           "desc": "On Reveal: Your opponent can't play cards at this location next turn.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "50",
@@ -849,7 +898,8 @@
           "power": "7",
           "desc": "On Reveal: Afflict all enemy cards here with -1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "51",
@@ -858,7 +908,8 @@
           "power": "1",
           "desc": "On Reveal: Add a 1 -Power Squirrel to each other location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "52",
@@ -867,7 +918,8 @@
           "power": "2",
           "desc": "On Reveal: If your opponent played a card here this turn, +3 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "53",
@@ -876,7 +928,8 @@
           "power": "2",
           "desc": "On Reveal: Flood this location. Next turn is the last turn cards can be played here.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "54",
@@ -885,7 +938,8 @@
           "power": "4",
           "desc": "Ongoing: If your hand is empty, +6 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "55",
@@ -894,7 +948,8 @@
           "power": "1",
           "desc": "At the end of each turn, gain +1 Power for each unspent Energy.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "56",
@@ -903,7 +958,8 @@
           "power": "3",
           "desc": "When this is discarded from your hand, add two 0-Cost copies to your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "57",
@@ -912,7 +968,8 @@
           "power": "2",
           "desc": "When you play a card, this gains +1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "58",
@@ -921,7 +978,8 @@
           "power": "6",
           "desc": "On Reveal: Discard a card from your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "59",
@@ -930,7 +988,8 @@
           "power": "0",
           "desc": "On Reveal: Set this cards Power equal to the Power of the last card you played.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "60",
@@ -939,7 +998,8 @@
           "power": "1",
           "desc": "When a card enters your hand from anywhere (exept your deck), +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "61",
@@ -948,7 +1008,8 @@
           "power": "6",
           "desc": "No abilities",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "62",
@@ -957,7 +1018,8 @@
           "power": "4",
           "desc": "On Reveal: Shuffle Mjolnir into your deck.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "63",
@@ -966,7 +1028,8 @@
           "power": "10",
           "desc": "Ongoing: Your other cards have -1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "64",
@@ -975,7 +1038,8 @@
           "power": "2",
           "desc": "Once this is in your hand, you can see the unrevealed locations.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "65",
@@ -984,7 +1048,8 @@
           "power": "8",
           "desc": "On Reveal: Create four 1-Power Drones at each other location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "66",
@@ -993,7 +1058,8 @@
           "power": "1",
           "desc": "On Reveal: Destroy your other cards at this location. Add their Power to this card.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "67",
@@ -1002,7 +1068,8 @@
           "power": "3",
           "desc": "On Reveal: Your opponent gains control of one of your other cards at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "68",
@@ -1011,7 +1078,8 @@
           "power": "8",
           "desc": "On Reveal: Your opponent must discard the lowest-Cost card in their hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "69",
@@ -1020,7 +1088,8 @@
           "power": "7",
           "desc": "You can move this each turn.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "70",
@@ -1029,7 +1098,8 @@
           "power": "3",
           "desc": "When this card moves, +5 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "71",
@@ -1038,7 +1108,8 @@
           "power": "5",
           "desc": "Ongoing: If any of your locations are empty, +4 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "72",
@@ -1047,7 +1118,8 @@
           "power": "1",
           "desc": "No abilities",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "73",
@@ -1056,7 +1128,8 @@
           "power": "3",
           "desc": "On Reveal: Next turn, cards in both players' hands cost 4.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "74",
@@ -1065,7 +1138,8 @@
           "power": "6",
           "desc": "On Reveal: Draw a copy of a 6-Cost card in your opponent's hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "75",
@@ -1074,7 +1148,8 @@
           "power": "1",
           "desc": "On Reveal: Add a 7-Power Tiger to another location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "76",
@@ -1083,7 +1158,8 @@
           "power": "1",
           "desc": "On Reveal: +2 Power for each other card you have here.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "77",
@@ -1092,7 +1168,8 @@
           "power": "3",
           "desc": "When this is discarded or destroyed, play it at a random location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "78",
@@ -1101,7 +1178,8 @@
           "power": "2",
           "desc": "Your On Reveal abilities at this location happen twice.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 0
         },
         {
           "id": "79",
@@ -1110,7 +1188,8 @@
           "power": "6",
           "desc": "If this is in your hand at the end of your turn, discard it.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "80",
@@ -1119,7 +1198,8 @@
           "power": "2",
           "desc": "On Reveal: Afflict your other cards at this location with -1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "81",
@@ -1128,7 +1208,8 @@
           "power": "2",
           "desc": "On Reveal: Remove the top card of your opponent's deck.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "82",
@@ -1137,7 +1218,8 @@
           "power": "3",
           "desc": "On Reveal: Remove the abilities on the next card you play.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "83",
@@ -1146,7 +1228,8 @@
           "power": "1",
           "desc": "On Reveal: Add a Widow's Bite to your opponent's hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "84",
@@ -1155,7 +1238,8 @@
           "power": "3",
           "desc": "On Reveal: Discard a card from your hand",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "85",
@@ -1164,7 +1248,8 @@
           "power": "0",
           "desc": "At the end of each turn, if you are winning this location, draw a card.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "86",
@@ -1173,7 +1258,8 @@
           "power": "3",
           "desc": "Ongoing: Your other cards have +1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "87",
@@ -1182,7 +1268,8 @@
           "power": "2",
           "desc": "On Reveal: Add 2 Broodlings to this location with the same Power",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "88",
@@ -1191,7 +1278,8 @@
           "power": "1",
           "desc": "When this is destroyed, create the Winter Soldier in its place.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "89",
@@ -1200,7 +1288,8 @@
           "power": "2",
           "desc": "On Reveal: Put the bottom card of your opponent's deck into your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "90",
@@ -1209,7 +1298,8 @@
           "power": "3",
           "desc": "Ongoing: Your other cards at this location have +1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "91",
@@ -1218,7 +1308,8 @@
           "power": "6",
           "desc": "At the end of the game, move to a location that wins you the game. (If possible)",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "92",
@@ -1227,7 +1318,8 @@
           "power": "2",
           "desc": "On Reveal: Destroy your other cards here. +2 Power for each destroyed.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "93",
@@ -1236,7 +1328,8 @@
           "power": "0",
           "desc": "Ongoing: Your highest Power cards get +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "94",
@@ -1245,7 +1338,8 @@
           "power": "4",
           "desc": "On Reveal: Next turn, both players can move cards to this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "95",
@@ -1254,7 +1348,8 @@
           "power": "4",
           "desc": "On Reveal: Discard the lowest-cost card from your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "96",
@@ -1263,7 +1358,8 @@
           "power": "8",
           "desc": "On Reveal: Move all enemy cards played this turn to this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "97",
@@ -1272,7 +1368,8 @@
           "power": "3",
           "desc": "Ongoing: Can't be destroyed or moved.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "98",
@@ -1281,7 +1378,8 @@
           "power": "3",
           "desc": "Ongoing: On Reveal Abilities won't happen at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "99",
@@ -1290,7 +1388,8 @@
           "power": "8",
           "desc": "You can only play this at locations where you have more Power then your opponent.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "100",
@@ -1299,7 +1398,8 @@
           "power": "4",
           "desc": "On Reveal: If this is at the middle location, shuffle your hand into your deck and draw 3 cards.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "101",
@@ -1308,7 +1408,8 @@
           "power": "4",
           "desc": "No abilities",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "102",
@@ -1317,7 +1418,8 @@
           "power": "1",
           "desc": "When this moves to a location, +2 Power for each card your opponent has there.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "103",
@@ -1326,7 +1428,8 @@
           "power": "2",
           "desc": "On turn 5, you get to see your opponents plays before you make your own.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "104",
@@ -1335,7 +1438,8 @@
           "power": "1",
           "desc": "When this card is destroyed, return it to your hand with double the Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "105",
@@ -1344,7 +1448,8 @@
           "power": "12",
           "desc": "Cost 1 less for each card destroyed this game.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "106",
@@ -1353,7 +1458,8 @@
           "power": "5",
           "desc": "On Reveal: Destroy your other cards at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "107",
@@ -1362,7 +1468,8 @@
           "power": "14",
           "desc": "Agatha starts in your hand and plays your cards for you.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "108",
@@ -1371,7 +1478,8 @@
           "power": "3",
           "desc": "On Reveal: Add a Rock to each other location, for both players.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "109",
@@ -1380,7 +1488,8 @@
           "power": "16",
           "desc": "On Reveal: Destroy your other cards.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "110",
@@ -1389,7 +1498,8 @@
           "power": "3",
           "desc": "Ongoing: +2 Power for each card in your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "111",
@@ -1398,7 +1508,8 @@
           "power": "10",
           "desc": "On Reveal: Pull 4 random cards from y our opponent's hand to their side of this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "112",
@@ -1407,7 +1518,8 @@
           "power": "3",
           "desc": "On Reveal: Move your highest power cards to this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "113",
@@ -1416,7 +1528,8 @@
           "power": "3",
           "desc": "You always draw this card on turn 2, and not before.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "114",
@@ -1425,7 +1538,8 @@
           "power": "0",
           "desc": "At the end of the game, discard a card from your hand. This has its Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "115",
@@ -1434,7 +1548,8 @@
           "power": "4",
           "desc": "On Reveal: If your opponent played a card here this turn, +4 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "116",
@@ -1443,7 +1558,8 @@
           "power": "5",
           "desc": "On Reveal: Add a 5-Power Doombot to each other location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "117",
@@ -1452,7 +1568,8 @@
           "power": "7",
           "desc": "You can't play this after turn 3. Ongoing: You can't play cards here.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "118",
@@ -1461,7 +1578,8 @@
           "power": "2",
           "desc": "On Reveal: Add a random card to your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "119",
@@ -1470,7 +1588,8 @@
           "power": "2",
           "desc": "On Reveal: +1 Max Energy. Ongoing: You can only play 1 card a turn.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "120",
@@ -1479,7 +1598,8 @@
           "power": "1",
           "desc": "On Reveal: Destroy a random enemy 1 -Cost card at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "121",
@@ -1488,7 +1608,8 @@
           "power": "4",
           "desc": "On Reveal: Remove the abilities from all Ongoing cards at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "122",
@@ -1497,7 +1618,8 @@
           "power": "3",
           "desc": "On Reveal: Return your 1-Cost cards to your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "123",
@@ -1506,7 +1628,8 @@
           "power": "1",
           "desc": "On Reveal: Give the next card you play +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "124",
@@ -1515,7 +1638,8 @@
           "power": "1",
           "desc": "On Reveal: Discard a card from your hand. Destroy a random enemy card.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "125",
@@ -1524,7 +1648,8 @@
           "power": "7",
           "desc": "On Reveal: If your opponent played a card here this turn, +5 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "126",
@@ -1533,7 +1658,8 @@
           "power": "3",
           "desc": "On Reveal: Bring back one of your discarded cards to this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "127",
@@ -1542,7 +1668,8 @@
           "power": "14",
           "desc": "You can only play this at the left location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "128",
@@ -1551,7 +1678,8 @@
           "power": "2",
           "desc": "Ongoing:  Nobody can play cards that cost 4, 5, or 6 at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "129",
@@ -1560,7 +1688,8 @@
           "power": "9",
           "desc": "You always draw this card on turn 6, and not before.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "130",
@@ -1569,7 +1698,8 @@
           "power": "-3",
           "desc": "On Reveal: Your opponent gains control of this.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 1
         },
         {
           "id": "131",
@@ -1578,7 +1708,8 @@
           "power": "3",
           "desc": "On Reveal: If your opponent played a card here this turn, +3 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "132",
@@ -1587,7 +1718,8 @@
           "power": "1",
           "desc": "On Reveal: If you play a card here next turn, +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "133",
@@ -1596,7 +1728,8 @@
           "power": "1",
           "desc": "On Reveal: Afflict all other cards -1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "134",
@@ -1605,7 +1738,8 @@
           "power": "8",
           "desc": "On Reveal: Move your other cards one location to the left.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "135",
@@ -1614,7 +1748,8 @@
           "power": "6",
           "desc": "On Reveal: Play all card you discarded from your hand to random locations.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "136",
@@ -1623,7 +1758,8 @@
           "power": "6",
           "desc": "On Reveal: Discard 2 cards from your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "137",
@@ -1632,7 +1768,8 @@
           "power": "-8",
           "desc": "On Reveal: Your opponent gains control of this.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "138",
@@ -1641,7 +1778,8 @@
           "power": "-2",
           "desc": "On Reveal: Add a Demon to your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "139",
@@ -1650,7 +1788,8 @@
           "power": "12",
           "desc": "No abilities",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "140",
@@ -1659,7 +1798,8 @@
           "power": "1",
           "desc": "When you play a card here, +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "141",
@@ -1668,7 +1808,8 @@
           "power": "4",
           "desc": "On Reveal: Merge this card with a random friendy card at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "142",
@@ -1677,7 +1818,8 @@
           "power": "2",
           "desc": "When this moves, double its Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "143",
@@ -1686,7 +1828,8 @@
           "power": "2",
           "desc": "On Reveal: Give a random card in your opponent's hand +1 Cost. (maximum 6)",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "144",
@@ -1695,7 +1838,8 @@
           "power": "20",
           "desc": "If you played a card last turn, you can't play this.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "145",
@@ -1704,7 +1848,8 @@
           "power": "2",
           "desc": "Ongoing: Cards you play here are not revealed until the game ends.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "146",
@@ -1713,7 +1858,8 @@
           "power": "2",
           "desc": "On Reveal: Move the next card you play one location to the left after it reveals.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "147",
@@ -1722,7 +1868,8 @@
           "power": "0",
           "desc": "On Reveal: Give 3 other friendly cards +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "148",
@@ -1731,7 +1878,8 @@
           "power": "0",
           "desc": "Ongoing: Your total Power is doubled at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "149",
@@ -1740,7 +1888,8 @@
           "power": "8",
           "desc": "On Reveal: Draw all cards that Cost 0 from  your deck.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "150",
@@ -1749,7 +1898,8 @@
           "power": "4",
           "desc": "On Reveal: If you don't play a card here next turn, +4 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "151",
@@ -1758,7 +1908,8 @@
           "power": "2",
           "desc": "When on of your cards is destroyed, this flies out of your deck to replace it.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "152",
@@ -1767,7 +1918,8 @@
           "power": "1",
           "desc": "Play a card from your deck at this location.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "153",
@@ -1776,7 +1928,8 @@
           "power": "3",
           "desc": "On Reveal: If your opponent played cards here this turn, move them randomly.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "154",
@@ -1785,7 +1938,8 @@
           "power": "4",
           "desc": "Ongoing: Your 1-Cost cards have +1 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "155",
@@ -1794,7 +1948,8 @@
           "power": "3",
           "desc": "On Reveal: Destroy ALL 1-Cost cards.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "156",
@@ -1803,7 +1958,8 @@
           "power": "4",
           "desc": "On Reveal: Next turn, destroy cards that move here.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 2
         },
         {
           "id": "157",
@@ -1812,7 +1968,8 @@
           "power": "4",
           "desc": "Ongoing: The location to the right has +6 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "158",
@@ -1821,7 +1978,8 @@
           "power": "2",
           "desc": "On Reveal: Shuffle a Rock into your opponent's deck.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "159",
@@ -1830,7 +1988,8 @@
           "power": "2",
           "desc": "When a card moves here, this gets +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "160",
@@ -1839,7 +1998,8 @@
           "power": "4",
           "desc": "On Reveal: Discard the highest cost card from your hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "161",
@@ -1848,7 +2008,8 @@
           "power": "4",
           "desc": "On Reveal: Copy all cards your opponent played this turn, but on your side.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "162",
@@ -1857,7 +2018,8 @@
           "power": "1",
           "desc": "Ongoing: If you have 3 other cards here, +3 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "163",
@@ -1866,7 +2028,8 @@
           "power": "3",
           "desc": "On Reveal: Remove the abilities from all cards in your opponent's hand.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "164",
@@ -1875,7 +2038,8 @@
           "power": "5",
           "desc": "Ongoing: -3 Power if your opponent has 4 cards here.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "165",
@@ -1884,7 +2048,8 @@
           "power": "2",
           "desc": "When you play a card here, swap it with a card in your deck.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "166",
@@ -1893,7 +2058,8 @@
           "power": "3",
           "desc": "You can't play this on turn 6. On Reveal: Change this location to Limbo.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "167",
@@ -1902,7 +2068,8 @@
           "power": "12",
           "desc": "On Reveal: Move all opposing 3 and 4 cost cards to this location",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "168",
@@ -1911,7 +2078,8 @@
           "power": "2",
           "desc": "On Reveal: If your opponent played a card here this turn, draw a card from their deck.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "169",
@@ -1920,7 +2088,8 @@
           "power": "7",
           "desc": "On Reveal: Your opponent draws 2 cards.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "170",
@@ -1929,7 +2098,8 @@
           "power": "2",
           "desc": "On Reveal: If this is at the middle location, +2 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "171",
@@ -1938,7 +2108,8 @@
           "power": "2",
           "desc": "No abilities",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "172",
@@ -1947,7 +2118,8 @@
           "power": "2",
           "desc": "Ongoing: If both players have 4 cards at this location, +6 Power.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "173",
@@ -1956,7 +2128,8 @@
           "power": "7",
           "desc": "On Reveal: Add 3 random 6-Cost cards to your hand",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "174",
@@ -1965,7 +2138,8 @@
           "power": "5",
           "desc": "If a card moved last turn, this costs 0.",
           "currentImage": true,
-          "released": true
+          "released": true,
+          "draftRarity": 3
         },
         {
           "id": "175",
@@ -1974,7 +2148,8 @@
           "power": "4",
           "desc": "I made this.  Never verified.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "176",
@@ -1983,7 +2158,8 @@
           "power": "6",
           "desc": "\"The Face of Marvel Snap\" On Reveal: Swipe your credit card.\nhttps://twitch.tv/Mister_Metal",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "177",
@@ -1992,7 +2168,8 @@
           "power": "66",
           "desc": "Resident DJ and the Minister of Mustache.\nhttps://twitch.tv/valintyhne",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "178",
@@ -2001,7 +2178,8 @@
           "power": "3",
           "desc": "On Reveal: If the last card you played has an On Reveal ability, this card copies it.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "179",
@@ -2010,7 +2188,8 @@
           "power": "4",
           "desc": "On Reveal: Add a random 4-cost and 5-cost card to your hand.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "180",
@@ -2019,7 +2198,8 @@
           "power": "10",
           "desc": "If you have another card here at the end of your turn, destroy this.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "181",
@@ -2028,7 +2208,8 @@
           "power": "1",
           "desc": "On Reveal: Set the Power of all cards in your hand to 3.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "182",
@@ -2037,7 +2218,8 @@
           "power": "2",
           "desc": "When this is destroyed, draw a card.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "183",
@@ -2046,7 +2228,8 @@
           "power": "4",
           "desc": "On Reveal: Double this card's Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "184",
@@ -2055,7 +2238,8 @@
           "power": "1",
           "desc": "You can move this each turn. When it moves, +1 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "185",
@@ -2064,7 +2248,8 @@
           "power": "1",
           "desc": "Ongoing: Nothing can move this to another location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "186",
@@ -2073,7 +2258,8 @@
           "power": "2",
           "desc": "On Reveal: The next card you draw will be a 2-Cost card. (if any are left)",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "187",
@@ -2082,7 +2268,8 @@
           "power": "2",
           "desc": "You can only play this at locations where you already have a card.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "188",
@@ -2091,7 +2278,8 @@
           "power": "3",
           "desc": "You can only play this at locations where you already have a card.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "189",
@@ -2100,7 +2288,8 @@
           "power": "4",
           "desc": "Ongoing: If you have 4 cards at each location, +8 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "190",
@@ -2109,7 +2298,8 @@
           "power": "1",
           "desc": "At the end of each turn, if you are winning this location, +1 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "191",
@@ -2118,7 +2308,8 @@
           "power": "2",
           "desc": "Ongoing: Adjacent locations have +1 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "192",
@@ -2127,7 +2318,8 @@
           "power": "3",
           "desc": "On Reveal: If this is your only card here, destroy all other locations.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "193",
@@ -2136,7 +2328,8 @@
           "power": "2",
           "desc": "On Reveal: Move the last card you played here.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "194",
@@ -2145,7 +2338,8 @@
           "power": "3",
           "desc": "On Reveal: Other cards can't be revealed this turn.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "195",
@@ -2154,7 +2348,8 @@
           "power": "1",
           "desc": "On Reveal: Double this card's Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "196",
@@ -2163,7 +2358,8 @@
           "power": "10",
           "desc": "When you discard this from your hand, add 3 random cards.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "197",
@@ -2172,7 +2368,8 @@
           "power": "0",
           "desc": "On Reveal: Gain +3 Power for each other card you played this turn.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "198",
@@ -2181,7 +2378,8 @@
           "power": "3",
           "desc": "On Reveal: The next card your opponent plays must be played here, if possible.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "199",
@@ -2190,7 +2388,8 @@
           "power": "0",
           "desc": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "200",
@@ -2199,7 +2398,8 @@
           "power": "3",
           "desc": "On Reveal: Give the next card you play +4 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "201",
@@ -2208,7 +2408,8 @@
           "power": "2",
           "desc": "You can pull this back to your hand at any time.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "202",
@@ -2217,7 +2418,8 @@
           "power": "4",
           "desc": "On Reveal: Destroy the enemy card with the highest Power at this location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "203",
@@ -2226,7 +2428,8 @@
           "power": "4",
           "desc": "On Reveal: Change other locations into this location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "204",
@@ -2235,7 +2438,8 @@
           "power": "1",
           "desc": "Ongoing: Your cards can't have their Power reduced.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "205",
@@ -2244,7 +2448,8 @@
           "power": "2",
           "desc": "When you draw this, place it at a random location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "206",
@@ -2253,7 +2458,8 @@
           "power": "2",
           "desc": "If this is in your deck after the final turn, it jumps to a random location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "207",
@@ -2262,7 +2468,8 @@
           "power": "8",
           "desc": "On Reveal: Discard your hand.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "208",
@@ -2271,7 +2478,8 @@
           "power": "3",
           "desc": "On Reveal: Add a random 1-Cost card to your hand.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "209",
@@ -2280,7 +2488,8 @@
           "power": "3",
           "desc": "On Reveal: Add 3 Sentinel to your opponent's hand.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "210",
@@ -2289,7 +2498,8 @@
           "power": "0",
           "desc": "If you win this game, double your winnings.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "211",
@@ -2298,7 +2508,8 @@
           "power": "0",
           "desc": "If you win this game, double your winnings.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "212",
@@ -2307,7 +2518,8 @@
           "power": "1",
           "desc": "On Reveal: Draw 2 Stones from your deck.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "213",
@@ -2316,7 +2528,8 @@
           "power": "5",
           "desc": "As you play this, disguise it as Mister Fantastic. After the final turn, reveal it.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "214",
@@ -2325,7 +2538,8 @@
           "power": "4",
           "desc": "Ongoing: If this is your only card here, adjacent locations have +5 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "215",
@@ -2334,7 +2548,8 @@
           "power": "1",
           "desc": "On Reveal: If your opponent played a card here this turn, x2 Power and put this in your hand.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "216",
@@ -2343,7 +2558,8 @@
           "power": "2",
           "desc": "When any card is played here, destroy this card AND that card.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "217",
@@ -2352,7 +2568,8 @@
           "power": "2",
           "desc": "On Reveal: Add all cards you discarded or destroyed last turn to your hand.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "218",
@@ -2361,7 +2578,8 @@
           "power": "9",
           "desc": "Ongoing: +5 Power if this is your only card here.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "219",
@@ -2370,7 +2588,8 @@
           "power": "3",
           "desc": "On Reveal: Revive one of your destroyed cards with +5 Power. If it’s Jean Grey, +10 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "220",
@@ -2379,7 +2598,8 @@
           "power": "3",
           "desc": "Ongoing: If you've played all 6 stones, Thanos has +10 Power. (wherever he is)",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "221",
@@ -2388,7 +2608,8 @@
           "power": "1",
           "desc": "On Reveal: Transform this location into a new one. Draw a card.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "222",
@@ -2397,7 +2618,8 @@
           "power": "6",
           "desc": "On Reveal: You must play a card here next turn.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "223",
@@ -2406,7 +2628,8 @@
           "power": "3",
           "desc": "On Reveal: Remove the Ongoing abilities from all cards in your hand and deck.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "224",
@@ -2415,7 +2638,8 @@
           "power": "10",
           "desc": "On Reveal: Add The Void (7-Power) to your opponent's side of this location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "225",
@@ -2424,7 +2648,8 @@
           "power": "4",
           "desc": "On Reveal: Destroy all other cards that have 2 or less Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "226",
@@ -2433,7 +2658,8 @@
           "power": "4",
           "desc": "When you discard a card from your hand, move this to a random location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "227",
@@ -2442,7 +2668,8 @@
           "power": "10",
           "desc": "Costs 1 less for each unspent Energy last turn.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "228",
@@ -2451,7 +2678,8 @@
           "power": "2",
           "desc": "On Reveal: Double the Power of the next card you play.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "229",
@@ -2460,7 +2688,8 @@
           "power": "5",
           "desc": "When anyone plays a card here, move this to another location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "230",
@@ -2469,7 +2698,8 @@
           "power": "6",
           "desc": "You can only play this at a location where you have 6+ total Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "231",
@@ -2478,7 +2708,8 @@
           "power": "2",
           "desc": "When this is discarded from your hand, draw a card.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "232",
@@ -2487,7 +2718,8 @@
           "power": "1",
           "desc": "Hot Young Actor & Jeopardy Host.\nhttps://www.twitch.tv/kawatek",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "233",
@@ -2496,7 +2728,8 @@
           "power": "3",
           "desc": "On Reveal add 1 random \"Cube Rusher\" to your hand.\nhttps://www.twitch.tv/lootmuncher0",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "234",
@@ -2505,7 +2738,8 @@
           "power": "0",
           "desc": "On Reveal: Double the power",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "235",
@@ -2514,7 +2748,8 @@
           "power": "2",
           "desc": "If you haven’t played this by turn 3, transform into a random spirit animal.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "236",
@@ -2523,7 +2758,8 @@
           "power": "1",
           "desc": "On Reveal: Draw a card. Ongoing: Enemy cards here have -1 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "237",
@@ -2532,7 +2768,8 @@
           "power": "1",
           "desc": "On Reveal: Next turn you can move 1 card at this location. Draw a card.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "238",
@@ -2541,7 +2778,8 @@
           "power": "7",
           "desc": "If your opponent has 12+ Power here at the end of any turn, destroy this.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "239",
@@ -2550,7 +2788,8 @@
           "power": "2",
           "desc": "Ongoing: Has the Ongoing effects of all enemy cards.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "240",
@@ -2559,7 +2798,8 @@
           "power": "0",
           "desc": "If you move the Human Torch to this location, +10 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "241",
@@ -2568,7 +2808,8 @@
           "power": "8",
           "desc": "At the start of the game, shuffle the six Infinity Stones into your deck.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "242",
@@ -2577,7 +2818,8 @@
           "power": "4",
           "desc": "At the end of the game, split your total Power evenly among all Locations.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "243",
@@ -2586,7 +2828,8 @@
           "power": "5",
           "desc": "When ANY card is played at this location, this card switches sides.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "244",
@@ -2595,7 +2838,8 @@
           "power": "3",
           "desc": "On Reveal: Move the last card you played to this location.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "245",
@@ -2604,7 +2848,8 @@
           "power": "2",
           "desc": "When this card is destroyed, add Spider-Man to your hand.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "246",
@@ -2613,7 +2858,8 @@
           "power": "3",
           "desc": "On Reveal: Set ALL cards at this location to 3 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "247",
@@ -2622,7 +2868,8 @@
           "power": "3",
           "desc": "When you move a card to a location, move this card.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "248",
@@ -2631,7 +2878,8 @@
           "power": "5",
           "desc": "Ongoing: Your 1-Cost cards have +1 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "249",
@@ -2640,7 +2888,8 @@
           "power": "3",
           "desc": "On Reveal: Your opponent draws a card, increase its cost by 1.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "249",
@@ -2649,7 +2898,8 @@
           "power": "3",
           "desc": "On Reveal: Your opponent draws a card, increase its cost by 1.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "250",
@@ -2658,7 +2908,8 @@
           "power": "3",
           "desc": "When this is discarded from your hand, put it back. It costs 0.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "251",
@@ -2667,7 +2918,8 @@
           "power": "2",
           "desc": "When this card moves, move it back with +1 Power.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "252",
@@ -2676,7 +2928,8 @@
           "power": "7",
           "desc": "If this is in your hand when you discard a card, put that card back and discard this instead.",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "253",
@@ -2685,7 +2938,8 @@
           "power": "3",
           "desc": "On Reveal: Delay Galactus 1 Month.\nhttps://www.twitch.tv/willowsnapping",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         },
         {
           "id": "254",
@@ -2694,7 +2948,8 @@
           "power": "1",
           "desc": "His name is KEN and he's definitely 100% not a bot!\nhttps://www.twitch.tv/SuperTechGod",
           "currentImage": true,
-          "released": false
+          "released": false,
+          "draftRarity": 0
         }
       ]
     }
