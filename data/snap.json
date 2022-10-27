@@ -2686,6 +2686,15 @@
           "desc": "On Reveal: Delay Galactus 1 Month.\nhttps://www.twitch.tv/willowsnapping",
           "currentImage": true,
           "released": false
+        },
+        {
+          "id": "254",
+          "name": "Super Tech God Ken",
+          "energy": "1",
+          "power": "1",
+          "desc": "His name is KEN and he's 100% not a bot\nhttps://www.twitch.tv/SuperTechGod",
+          "currentImage": true,
+          "released": false
         }
       ]
     }
