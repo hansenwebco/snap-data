@@ -2950,6 +2950,16 @@
           "currentImage": true,
           "released": false,
           "draftRarity": 0
+        },
+        {
+          "id": "255",
+          "name": "Jesse James Micio",
+          "energy": "3",
+          "power": "14",
+          "desc": "Collects pets from chat, +1% chance to skip turn for each pet collected.\nhttps://www.twitch.tv/JesseJames",
+          "currentImage": true,
+          "released": false,
+          "draftRarity": 0
         }
       ]
     }
