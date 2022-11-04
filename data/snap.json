@@ -409,7 +409,7 @@
           "desc": "No abilities",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 1
         },
         {
           "id": "2",
@@ -419,7 +419,7 @@
           "desc": "When you discard this from your hand, put it back with +4 Power.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 2
+          "draftRarity": 3
         },
         {
           "id": "3",
@@ -439,7 +439,7 @@
           "desc": "On Reveal: Discard a card from each player's hand.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 1
         },
         {
           "id": "5",
@@ -449,7 +449,7 @@
           "desc": "Ongoing: +2 Power for each card you discarded from  your hand this game.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 2
         },
         {
           "id": "6",
@@ -469,7 +469,7 @@
           "desc": "Ongoing: Adjacent locations have +2 Power.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 2
         },
         {
           "id": "8",
@@ -479,7 +479,7 @@
           "desc": "On Reveal: Swap the Power and Cost of all cards in your deck.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 1
+          "draftRarity": 3
         },
         {
           "id": "9",
@@ -489,7 +489,7 @@
           "desc": "On Reveal: Add a Sinister Clone to this location with the same Power.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 1
         },
         {
           "id": "10",
@@ -499,7 +499,7 @@
           "desc": "When this moves, add a copy to the old location.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 2
         },
         {
           "id": "11",
@@ -509,7 +509,7 @@
           "desc": "Which is the real Mysterio? The real one has 5 Power.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 2
+          "draftRarity": 1
         },
         {
           "id": "12",
@@ -539,7 +539,7 @@
           "desc": "On Reveal: Give the 2 leftmost cards in your hand +2 Power.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 2
         },
         {
           "id": "15",
@@ -549,7 +549,7 @@
           "desc": "Ongoing: +5 Power if this is your only card here.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 1
         },
         {
           "id": "16",
@@ -569,7 +569,7 @@
           "desc": "When this is destroyed, give your cards +1 Power.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 2
         },
         {
           "id": "18",
@@ -599,7 +599,7 @@
           "desc": "Ongoing: If you're ahead by 10 Power here, +4 Power to other locations.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 1
+          "draftRarity": 2
         },
         {
           "id": "21",
@@ -619,7 +619,7 @@
           "desc": "Ongoing: Your cards with no abilities have +2 Power.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 2
+          "draftRarity": 3
         },
         {
           "id": "23",
@@ -629,7 +629,7 @@
           "desc": "On Reveal: Move an opposing 1 or 2-Cost card to this location.",
           "currentImage": true,
           "released": true,
-          "draftRarity": 0
+          "draftRarity": 2
         },
         {
           "id": "24",
