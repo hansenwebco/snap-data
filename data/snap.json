@@ -2960,6 +2960,16 @@
           "currentImage": true,
           "released": false,
           "draftRarity": 0
+        },
+        {
+          "id": "256",
+          "name": "Coco4",
+          "energy": "6",
+          "power": "9",
+          "desc": "Got 'Em. Nice!.\nhttps://www.twitch.tv/CoCo_Four",
+          "currentImage": true,
+          "released": false,
+          "draftRarity": 0
         }
       ]
     }
