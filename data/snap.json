@@ -2228,7 +2228,7 @@
           "power": "4",
           "desc": "On Reveal: Double this card's Power.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
