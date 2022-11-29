@@ -2178,7 +2178,7 @@
           "power": "3",
           "desc": "On Reveal: If the last card you played has an On Reveal ability, this card copies it.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2188,7 +2188,7 @@
           "power": "4",
           "desc": "On Reveal: Add a random 4-cost and 5-cost card to your hand.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2198,7 +2198,7 @@
           "power": "10",
           "desc": "If you have another card here at the end of your turn, destroy this.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2208,7 +2208,7 @@
           "power": "1",
           "desc": "On Reveal: Set the Power of all cards in your hand to 3.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2318,7 +2318,7 @@
           "power": "3",
           "desc": "On Reveal: If this is your only card here, destroy all other locations.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2356,9 +2356,9 @@
           "name": "Helicarrier",
           "energy": "6",
           "power": "10",
-          "desc": "When you discard this from your hand, add 3 random cards.",
+          "desc": "When you discard this from your hand, replace it with 3 random cards.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2438,7 +2438,7 @@
           "power": "1",
           "desc": "Ongoing: Your cards can't have their Power reduced.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2456,9 +2456,9 @@
           "name": "M'Baku",
           "energy": "1",
           "power": "2",
-          "desc": "If this is in your deck after the final turn, it jumps to a random location.",
+          "desc": "If this is in your deck at the end of the game, it leaps to a random location.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2478,7 +2478,7 @@
           "power": "3",
           "desc": "On Reveal: Add a random 1-Cost card to your hand.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2578,7 +2578,7 @@
           "power": "9",
           "desc": "Ongoing: +5 Power if this is your only card here.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2668,7 +2668,7 @@
           "power": "10",
           "desc": "Costs 1 less for each unspent Energy last turn.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2678,7 +2678,7 @@
           "power": "2",
           "desc": "On Reveal: Double the Power of the next card you play.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2788,7 +2788,7 @@
           "power": "2",
           "desc": "Ongoing: Has the Ongoing effects of all enemy cards.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2808,7 +2808,7 @@
           "power": "8",
           "desc": "At the start of the game, shuffle the six Infinity Stones into your deck.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2828,7 +2828,7 @@
           "power": "5",
           "desc": "When ANY card is played at this location, this card switches sides.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2858,7 +2858,7 @@
           "power": "3",
           "desc": "On Reveal: Set ALL cards at this location to 3 Power.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2967,6 +2967,26 @@
           "energy": "6",
           "power": "9",
           "desc": "Got 'Em. Nice!.\nhttps://www.twitch.tv/CoCo_Four",
+          "currentImage": true,
+          "released": false,
+          "draftRarity": 0
+        },
+        {
+          "id": "257",
+          "name": "Power Stone",
+          "energy": "1",
+          "power": "1",
+          "desc": "Ongoing: If you've played all 6 stones, Thanos has +10 Power. (wherever he is)",
+          "currentImage": true,
+          "released": false,
+          "draftRarity": 0
+        },
+        {
+          "id": "258",
+          "name": "Time Stone",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: Draw a card. Next turn, you get +1 Energy.",
           "currentImage": true,
           "released": false,
           "draftRarity": 0
