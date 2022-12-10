@@ -837,7 +837,7 @@
           "energy": "5",
           "power": "4",
           "desc": "Ongoing: Cards in  your hand cost 1 less. (minimum 1)",
-          "currentImage": false,
+          "currentImage": true,
           "released": true,
           "draftRarity": 3
         },
@@ -1487,7 +1487,7 @@
           "energy": "6",
           "power": "15",
           "desc": "On Reveal: Destroy your other cards.",
-          "currentImage": false,
+          "currentImage": true,
           "released": true,
           "draftRarity": 3
         },
@@ -1797,7 +1797,7 @@
           "energy": "2",
           "power": "0",
           "desc": "When you play a card here, +2 Power.",
-          "currentImage": false,
+          "currentImage": true,
           "released": true,
           "draftRarity": 2
         },
