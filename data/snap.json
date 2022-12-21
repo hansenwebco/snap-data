@@ -2268,7 +2268,7 @@
           "power": "2",
           "desc": "You can only play this at locations where you already have a card.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2638,7 +2638,7 @@
           "power": "10",
           "desc": "On Reveal: Add The Void (7-Power) to your opponent's side of this location.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
