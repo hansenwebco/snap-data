@@ -507,7 +507,7 @@
           "energy": "2",
           "power": "4",
           "desc": "Which is the real Mysterio? The real one has 5 Power.",
-          "currentImage": false,
+          "currentImage": true,
           "released": true,
           "draftRarity": 1
         },
@@ -2266,7 +2266,7 @@
           "name": "Darkhawk",
           "energy": "1",
           "power": "2",
-          "desc": "You can only play this at locations where you already have a card.",
+          "desc": "Ongoing: +2 Power for each card in your opponent's deck",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -2636,7 +2636,7 @@
           "name": "Sentry",
           "energy": "4",
           "power": "10",
-          "desc": "On Reveal: Add The Void (7-Power) to your opponent's side of this location.",
+          "desc": "Cannot be played at the right location. On Reveal:  Add a -8 Power Void to the right location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
