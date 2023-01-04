@@ -2924,11 +2924,11 @@
         {
           "id": "252",
           "name": "Zabu",
-          "energy": "5",
-          "power": "7",
-          "desc": "If this is in your hand when you discard a card, put that card back and discard this instead.",
+          "energy": "3",
+          "power": "2",
+          "desc": "Ongoing: Your 4-Cost cards cost 2 less. (minimum 1)",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
