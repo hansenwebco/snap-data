@@ -2883,12 +2883,12 @@
         },
         {
           "id": "249",
-          "name": "Witchfire",
+          "name": "PDKain27",
           "energy": "2",
-          "power": "3",
-          "desc": "On Reveal: Your opponent draws a card, increase its cost by 1.",
+          "power": "7",
+          "desc": "Ongoing: When a streamer appears generate art.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
