@@ -2264,9 +2264,9 @@
         {
           "id": "187",
           "name": "Darkhawk",
-          "energy": "1",
-          "power": "2",
-          "desc": "Ongoing: +2 Power for each card in your opponent's deck",
+          "energy": "4",
+          "power": "1",
+          "desc": "Ongoing: +2 Power for each card in your opponent's deck.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
