@@ -1165,9 +1165,9 @@
           "id": "77",
           "name": "Wolverine",
           "energy": "2",
-          "power": "3",
-          "desc": "When this is discarded or destroyed, play it at a random location.",
-          "currentImage": true,
+          "power": "2",
+          "desc": "When this is discarded or destroyed, regenerate it at a random location with +2 Power.",
+          "currentImage": false,
           "released": true,
           "draftRarity": 1
         },
@@ -1746,7 +1746,7 @@
           "name": "Hela",
           "energy": "6",
           "power": "6",
-          "desc": "On Reveal: Play all card you discarded from your hand to random locations.",
+          "desc": "On Reveal: Resurrect all cards you discarded from your hand to random locations.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -1916,7 +1916,7 @@
           "name": "Jubilee",
           "energy": "4",
           "power": "1",
-          "desc": "Play a card from your deck at this location.",
+          "desc": "On Reveal: Add a card from your deck at this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -2005,9 +2005,9 @@
           "id": "161",
           "name": "Leader",
           "energy": "6",
-          "power": "3",
-          "desc": "On Reveal: Copy all cards your opponent played this turn, but on your side.",
-          "currentImage": true,
+          "power": "7",
+          "desc": " On Reveal: Copy all cards your opponent played to the location to the right, but on your side.",
+          "currentImage": false,
           "released": true,
           "draftRarity": 2
         },
@@ -2636,7 +2636,7 @@
           "name": "Sentry",
           "energy": "4",
           "power": "10",
-          "desc": "Cannot be played at the right location. On Reveal:  Add a -8 Power Void to the right location.",
+          "desc": "You can't play this at the right location. On Reveal:  Add a -8 Power Void to the right location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
