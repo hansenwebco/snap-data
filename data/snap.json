@@ -586,7 +586,7 @@
           "name": "Okoye",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Give every card in your deck +2 Power.",
+          "desc": "On Reveal: Give every card in your deck +1 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
