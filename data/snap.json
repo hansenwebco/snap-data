@@ -2738,7 +2738,7 @@
           "power": "0",
           "desc": "On Reveal: Double the power",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
