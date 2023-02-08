@@ -1167,7 +1167,7 @@
           "energy": "2",
           "power": "2",
           "desc": "When this is discarded or destroyed, regenerate it at a random location with +2 Power.",
-          "currentImage": false,
+          "currentImage": true,
           "released": true,
           "draftRarity": 1
         },
@@ -2007,7 +2007,7 @@
           "energy": "6",
           "power": "7",
           "desc": " On Reveal: Copy all cards your opponent played to the location to the right, but on your side.",
-          "currentImage": false,
+          "currentImage": true,
           "released": true,
           "draftRarity": 2
         },
