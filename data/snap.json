@@ -2734,10 +2734,10 @@
         {
           "id": "234",
           "name": "Silver Surfer",
-          "energy": "4",
-          "power": "0",
-          "desc": "On Reveal: Double the power",
-          "currentImage": true,
+          "energy": "3",
+          "power": "2",
+          "desc": "On Reveal: Give your other 3-Cost cards +2 Power.",
+          "currentImage": false,
           "released": true,
           "draftRarity": 0
         },
@@ -2924,10 +2924,10 @@
         {
           "id": "253",
           "name": "Zabu",
-          "energy": "3",
+          "energy": "2",
           "power": "2",
-          "desc": "Ongoing: Your 4-Cost cards cost 2 less. (minimum 1)",
-          "currentImage": true,
+          "desc": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)",
+          "currentImage": false,
           "released": true,
           "draftRarity": 0
         },
