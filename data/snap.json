@@ -2286,9 +2286,9 @@
           "name": "Dazzler",
           "energy": "4",
           "power": "4",
-          "desc": "Ongoing: If you have 4 cards at each location, +8 Power.",
+          "desc": "Ongoing: If you have 4 cards at each location, +6 Power.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2644,11 +2644,11 @@
         {
           "id": "225",
           "name": "Shadow King",
-          "energy": "6",
-          "power": "4",
-          "desc": "On Reveal: Destroy all other cards that have 2 or less Power.",
+          "energy": "4",
+          "power": "3",
+          "desc": "On Reveal: Set all cards here to their orginal base power",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2746,7 +2746,7 @@
           "name": "Snowguard",
           "energy": "1",
           "power": "2",
-          "desc": "If you haven’t played this by turn 3, transform into a random spirit animal.",
+          "desc": "If you haven't played this by turn 3, transform into a random spirit animal.",
           "currentImage": true,
           "released": false,
           "draftRarity": 0
@@ -2989,6 +2989,26 @@
           "desc": "On Reveal: Draw a card. Next turn, you get +1 Energy.",
           "currentImage": true,
           "released": false,
+          "draftRarity": 0
+        },
+        {
+          "id": "260",
+          "name": "Ghost",
+          "energy": "1",
+          "power": "2",
+          "desc": "Ongoing: Your cards are always revealed last. (Their On Reveal abilities happen last.)",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "261",
+          "name": "Null",
+          "energy": "6",
+          "power": "0",
+          "desc": "Ongoing: Has the combined Power of all cards destroyed this game.",
+          "currentImage": true,
+          "released": true,
           "draftRarity": 0
         }
       ]
