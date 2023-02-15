@@ -2737,7 +2737,7 @@
           "energy": "3",
           "power": "2",
           "desc": "On Reveal: Give your other 3-Cost cards +2 Power.",
-          "currentImage": false,
+          "currentImage": true,
           "released": true,
           "draftRarity": 0
         },
@@ -2927,7 +2927,7 @@
           "energy": "2",
           "power": "2",
           "desc": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)",
-          "currentImage": false,
+          "currentImage": true,
           "released": true,
           "draftRarity": 0
         },
