@@ -2798,7 +2798,7 @@
           "power": "0",
           "desc": "If you move the Human Torch to this location, +10 Power.",
           "currentImage": true,
-          "released": false,true
+          "released": false,
           "draftRarity": 0
         },
         {
