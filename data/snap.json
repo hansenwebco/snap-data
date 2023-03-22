@@ -516,7 +516,7 @@
           "name": "Mystique",
           "energy": "3",
           "power": "0",
-          "desc": "On Reveal: If the last card you played has an Ongoing ability, this card gains it.",
+          "desc": "On Reveal: If the last card you played has an Ongoing, copy its text. (if it's in play)",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -696,7 +696,7 @@
           "name": "Quinjet",
           "energy": "1",
           "power": "2",
-          "desc": "Ongoing: Cards that didn't start in your deck cost 1 less.",
+          "desc": "Ongoing: Cards that didn't start in your deck cost 1 less. (minimum 1)",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -705,8 +705,8 @@
           "id": "31",
           "name": "RedSkull",
           "energy": "5",
-          "power": "15",
-          "desc": "Ongoing: Enemy cards at this location have +2 Power.",
+          "power": "13",
+          "desc": "Ongoing: Enemy cards at this location have +1 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -986,7 +986,7 @@
           "name": "Taskmaster",
           "energy": "5",
           "power": "0",
-          "desc": "On Reveal: Set this cards Power equal to the Power of the last card you played.",
+          "desc": "On Reveal: Set this card's Power equal to that of the last card you played. (if that card's in play)",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1355,8 +1355,8 @@
           "id": "96",
           "name": "Aero",
           "energy": "5",
-          "power": "7",
-          "desc": "On Reveal: Move all enemy cards played this turn to this location.",
+          "power": "8",
+          "desc": "On Reveal: Move the last enemy card played this turn to this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -2176,7 +2176,7 @@
           "name": "Absorbing Man",
           "energy": "4",
           "power": "3",
-          "desc": "On Reveal: If the last card you played has an On Reveal ability, this card copies it.",
+          "desc": "On Reveal: If the last card you played has an On Reveal, copy its text. (if it's in play)",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -2388,7 +2388,7 @@
           "power": "0",
           "desc": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2405,10 +2405,10 @@
           "id": "201",
           "name": "Kitty Pryde",
           "energy": "1",
-          "power": "2",
-          "desc": "You can pull this back to your hand at any time.",
+          "power": "0",
+          "desc": "You can return this to your hand to gain +2 Power.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2484,11 +2484,11 @@
         {
           "id": "209",
           "name": "Master Mold",
-          "energy": "3",
-          "power": "3",
-          "desc": "On Reveal: Add 3 Sentinel to your opponent's hand.",
+          "energy": "2",
+          "power": "2",
+          "desc": "On Reveal: Add 2 Sentinel to your opponent's hand.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2555,10 +2555,10 @@
           "id": "216",
           "name": "Negasonic Teenage Warhead",
           "energy": "3",
-          "power": "2",
-          "desc": "When any card is played here, destroy this card AND that card.",
+          "power": "4",
+          "desc": "After ANY card is played here, destroy this card AND that card.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2665,7 +2665,7 @@
           "id": "227",
           "name": "She Hulk",
           "energy": "6",
-          "power": "10",
+          "power": "9",
           "desc": "Costs 1 less for each unspent Energy last turn.",
           "currentImage": true,
           "released": true,
@@ -2766,7 +2766,7 @@
           "name": "Space Stone",
           "energy": "1",
           "power": "1",
-          "desc": "On Reveal: Next turn you can move 1 card at this location. Draw a card.",
+          "desc": "On Reveal: Next turn, you can move one card to this location. Draw a card.",
           "currentImage": true,
           "released": false,
           "draftRarity": 0
@@ -3010,7 +3010,27 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }
+        },
+        {
+          "id": "262",
+          "name": "Nimrod",
+          "energy": "5",
+          "power": "5",
+          "desc": "When this is destroyed, add a copy to each other location.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "263",
+          "name": "Stature",
+          "energy": "5",
+          "power": "7",
+          "desc": "Costs 1 if your opponent discarded a card from their hand this game.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }            
       ]
     }
   }
