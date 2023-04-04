@@ -2363,12 +2363,12 @@
         },
         {
           "id": "197",
-          "name": "Hit-Monkey",
+          "name": "Hit Monkey",
           "energy": "2",
           "power": "0",
-          "desc": "On Reveal: Gain +3 Power for each other card you played this turn.",
+          "desc": "On Reveal: Gain +2 Power for each other card you played this turn.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
