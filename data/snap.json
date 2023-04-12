@@ -2746,9 +2746,9 @@
           "name": "Snowguard",
           "energy": "1",
           "power": "2",
-          "desc": "If you haven't played this by turn 3, transform into a random spirit animal.",
+          "desc": "While in your hand, this transforms each turn into a Hawk or a Bear.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
