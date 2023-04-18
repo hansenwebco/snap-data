@@ -1686,7 +1686,7 @@
           "name": "AmericaChavez",
           "energy": "6",
           "power": "9",
-          "desc": "You always draw this card on turn 6, and not before.",
+          "desc": "Starts on the bottom of your deck. Draw this on turn 6.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1916,7 +1916,7 @@
           "name": "Jubilee",
           "energy": "4",
           "power": "1",
-          "desc": "On Reveal: Add a card from your deck at this location.",
+          "desc": "On Reveal: Add the top card of your deck to this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -2005,8 +2005,8 @@
           "id": "161",
           "name": "Leader",
           "energy": "6",
-          "power": "7",
-          "desc": " On Reveal: Copy all cards your opponent played to the location to the right, but on your side.",
+          "power": "2",
+          "desc": "On Reveal: Copy the enemy card(s) with the highest Power played this turn, but on your side.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -2026,7 +2026,7 @@
           "name": "Leech",
           "energy": "5",
           "power": "3",
-          "desc": "On Reveal: Remove the abilities from all cards in your opponent's hand.",
+          "desc": "At the start of turn 6, remove all abilities from cards in your opponent's hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -2046,7 +2046,7 @@
           "name": "Lockjaw",
           "energy": "3",
           "power": "2",
-          "desc": "When you play a card here, swap it with a card in your deck.",
+          "desc": "After you play a card here, swap it with a card in your deck. (once per turn)",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -2676,7 +2676,7 @@
           "name": "Shuri",
           "energy": "4",
           "power": "2",
-          "desc": "On Reveal: Double the Power of the next card you play.",
+          "desc": "On Reveal: If you play your next card here, double its Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
