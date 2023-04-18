@@ -3030,7 +3030,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }            
+        },
+        {
+          "id": "264",
+          "name": "Jeff the Baby Land Shark",
+          "energy": "2",
+          "power": "3",
+          "desc": "You can move this once. Nothing can stop you from moving or playing this to any location.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }              
       ]
     }
   }
