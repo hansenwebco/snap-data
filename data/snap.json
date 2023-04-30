@@ -795,7 +795,7 @@
           "id": "40",
           "name": "Sandman",
           "energy": "5",
-          "power": "5",
+          "power": "3",
           "desc": "Ongoing: Players can only play 1 card a turn.",
           "currentImage": true,
           "released": true,
@@ -1605,7 +1605,7 @@
           "id": "121",
           "name": "Enchantress",
           "energy": "4",
-          "power": "4",
+          "power": "6",
           "desc": "On Reveal: Remove the abilities from all Ongoing cards at this location.",
           "currentImage": true,
           "released": true,
@@ -2036,7 +2036,7 @@
           "name": "Lizard",
           "energy": "2",
           "power": "5",
-          "desc": "Ongoing: -3 Power if your opponent has 4 cards here.",
+          "desc": "Ongoing: -4 Power if your opponent has 4 cards here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -2654,9 +2654,9 @@
         {
           "id": "226",
           "name": "Shanna",
-          "energy": "3",
+          "energy": "4",
           "power": "4",
-          "desc": "When you discard a card from your hand, move this to a random location.",
+          "desc": "On Reveal: Add a random 1-Cost card to each location",
           "currentImage": true,
           "released": false,
           "draftRarity": 0
