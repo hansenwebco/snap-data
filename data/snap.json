@@ -2546,9 +2546,9 @@
           "name": "Nebula",
           "energy": "1",
           "power": "1",
-          "desc": "On Reveal: If your opponent played a card here this turn, x2 Power and put this in your hand.",
+          "desc": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
