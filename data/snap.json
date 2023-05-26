@@ -1075,7 +1075,7 @@
           "id": "68",
           "name": "BlackBolt",
           "energy": "5",
-          "power": "8",
+          "power": "7",
           "desc": "On Reveal: Your opponent must discard the lowest-Cost card in their hand.",
           "currentImage": true,
           "released": true,
@@ -1845,7 +1845,7 @@
           "id": "145",
           "name": "InvisibleWoman",
           "energy": "2",
-          "power": "2",
+          "power": "3",
           "desc": "Ongoing: Cards you play here are not revealed until the game ends.",
           "currentImage": true,
           "released": true,
@@ -2555,7 +2555,7 @@
           "id": "216",
           "name": "Negasonic Teenage Warhead",
           "energy": "3",
-          "power": "4",
+          "power": "5",
           "desc": "After ANY card is played here, destroy this card AND that card.",
           "currentImage": true,
           "released": true,
@@ -3025,7 +3025,7 @@
           "id": "263",
           "name": "Stature",
           "energy": "5",
-          "power": "7",
+          "power": "6",
           "desc": "Costs 1 if your opponent discarded a card from their hand this game.",
           "currentImage": true,
           "released": true,
@@ -3033,14 +3033,24 @@
         },
         {
           "id": "264",
-          "name": "Jeff the Baby Land Shark",
+          "name": "JeffTheBabyLandShark",
           "energy": "2",
           "power": "3",
           "desc": "You can move this once. Nothing can stop you from moving or playing this to any location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }              
+        },
+        {
+          "id": "265",
+          "name": "HighEvolutionary",
+          "energy": "4",
+          "power": "4",
+          "desc": "At the start of the game, unlock the potential of your cards with no abilities.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }                       
       ]
     }
   }
