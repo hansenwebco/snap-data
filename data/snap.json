@@ -2323,12 +2323,12 @@
         },
         {
           "id": "193",
-          "name": "Ghost-Spider",
+          "name": "Ghost Spider",
           "energy": "2",
           "power": "2",
           "desc": "On Reveal: Move the last card you played here.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -2688,7 +2688,7 @@
           "power": "5",
           "desc": "When anyone plays a card here, move this to another location.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -3050,7 +3050,47 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }                       
+        },
+        {
+          "id": "266",
+          "name": "Spider ham",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: Transform the highest-cost card in your opponent's hand into a Pig, keeping its Power and Cost",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "267",
+          "name": "Howard the Duck",
+          "energy": "1",
+          "power": "2",
+          "desc": "Ongoing: Tap this to see the top card of your deck.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "268",
+          "name": "Iron Lad",
+          "energy": "4",
+          "power": "6",
+          "desc": "On Reveal: Copy the text of your deck's top card.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "269",
+          "name": "Stegron",
+          "energy": "4",
+          "power": "5",
+          "desc": "On Reveal: Move an enemy card from here to another location.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }                                    
       ]
     }
   }
