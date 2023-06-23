@@ -2468,7 +2468,7 @@
           "power": "8",
           "desc": "On Reveal: Discard your hand.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
