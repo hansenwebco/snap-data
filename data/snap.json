@@ -2593,12 +2593,12 @@
         },
         {
           "id": "220",
-          "name": "Phoenix Force",
-          "energy": "1",
-          "power": "3",
-          "desc": "Ongoing: If you've played all 6 stones, Thanos has +10 Power. (wherever he is)",
+          "name": "Mirage",
+          "energy": "2",
+          "power": "2",
+          "desc": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
