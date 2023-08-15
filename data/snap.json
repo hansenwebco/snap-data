@@ -884,9 +884,9 @@
         {
           "id": "49",
           "name": "SpiderMan",
-          "energy": "5",
-          "power": "4",
-          "desc": "On Reveal: Your opponent can't play cards at this location next turn.",
+          "energy": "3",
+          "power": "5",
+          "desc": "On Reveal: Move to another location and pull an enemy card from here to there.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1286,7 +1286,7 @@
           "name": "Cable",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Put the bottom card of your opponent's deck into your hand.",
+          "desc": "On Reveal: Draw the top card of your opponent's deck.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -2056,7 +2056,7 @@
           "name": "Magik",
           "energy": "3",
           "power": "2",
-          "desc": "You can't play this on turn 6. On Reveal: Change this location to Limbo.",
+          "desc": "On Reveal: Replace this location with 'Limbo'. Doesn't work after turn 5.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -2414,11 +2414,11 @@
         {
           "id": "202",
           "name": "Lady Deathstrike",
-          "energy": "6",
-          "power": "4",
-          "desc": "On Reveal: Destroy the enemy card with the highest Power at this location.",
+          "energy": "5",
+          "power": "3",
+          "desc": "On Reveal: Destroy each card here with less Power than this",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -3107,6 +3107,16 @@
           "energy": "1",
           "power": "2",
           "desc": "After your opponent plays an Ongoing card here, remove its abilities.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "272",
+          "name": "Daken",
+          "energy": "3",
+          "power": "4",
+          "desc": "On Reveal: Add the Muramasa Shard to your hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
