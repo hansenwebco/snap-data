@@ -1396,7 +1396,7 @@
           "name": "Crystal",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: If this is at the middle location, shuffle your hand into your deck and draw 3 cards.",
+          "desc": "On Reveal: Each player draws a card.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
