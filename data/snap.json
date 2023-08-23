@@ -1394,8 +1394,8 @@
         {
           "id": "100",
           "name": "Crystal",
-          "energy": "4",
-          "power": "4",
+          "energy": "3",
+          "power": "3",
           "desc": "On Reveal: If this is at the middle location, shuffle your hand into your deck and draw 3 cards.",
           "currentImage": true,
           "released": true,
@@ -1626,7 +1626,7 @@
           "name": "Forge",
           "energy": "2",
           "power": "1",
-          "desc": "On Reveal: Give the next card you play +2 Power.",
+          "desc": "Give the next card you play +3 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -2654,8 +2654,8 @@
         {
           "id": "226",
           "name": "Shanna",
-          "energy": "4",
-          "power": "4",
+          "energy": "3",
+          "power": "2",
           "desc": "On Reveal: Add a random 1-Cost card to each location",
           "currentImage": true,
           "released": false,
@@ -2903,12 +2903,12 @@
         },
         {
           "id": "251",
-          "name": "X-23",
-          "energy": "3",
-          "power": "3",
-          "desc": "When this is discarded from your hand, put it back. It costs 0.",
+          "name": "X23",
+          "energy": "1",
+          "power": "2",
+          "desc": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
