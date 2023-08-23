@@ -2658,7 +2658,7 @@
           "power": "2",
           "desc": "On Reveal: Add a random 1-Cost card to each location",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
