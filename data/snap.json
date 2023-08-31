@@ -2704,11 +2704,11 @@
         {
           "id": "231",
           "name": "Silver Samurai",
-          "energy": "1",
-          "power": "2",
-          "desc": "When this is discarded from your hand, draw a card.",
+          "energy": "4",
+          "power": "5",
+          "desc": "On Reveal: Each player discards the lowest-Power card from their hand.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
