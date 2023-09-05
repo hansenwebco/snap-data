@@ -3120,6 +3120,16 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
+        },
+        {
+          "id": "283",
+          "name": "Loki",
+          "energy": "3",
+          "power": "5",
+          "desc": "On Reveal: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
         }
       ]
     }
