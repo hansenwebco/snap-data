@@ -1236,7 +1236,7 @@
           "name": "Blade",
           "energy": "1",
           "power": "3",
-          "desc": "On Reveal: Discard a card from your hand",
+          "desc": "On Reveal: Discard the rightmost card from your hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -2175,7 +2175,7 @@
           "id": "178",
           "name": "Absorbing Man",
           "energy": "4",
-          "power": "5",
+          "power": "4",
           "desc": "On Reveal: If the last card you played has an On Reveal, copy its text. (if it's in play)",
           "currentImage": true,
           "released": true,
@@ -2746,7 +2746,7 @@
           "name": "Snowguard",
           "energy": "1",
           "power": "2",
-          "desc": "While in your hand, this transforms each turn into a Hawk or a Bear.",
+          "desc": "Add the Hawk and Bear auroras to your hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3056,7 +3056,7 @@
           "name": "Spider Ham",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Transform the highest-cost card in your opponent's hand into a Pig, keeping its Power and Cost",
+          "desc": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
