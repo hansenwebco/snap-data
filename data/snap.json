@@ -3130,7 +3130,18 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }
+        },
+        ,
+        {
+          "id": "274",
+          "name": "Alioth",
+          "energy": "6",
+          "power": "5",
+          "desc": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }        
       ]
     }
   }
