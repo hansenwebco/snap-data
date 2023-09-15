@@ -2315,8 +2315,8 @@
           "id": "192",
           "name": "Galactus",
           "energy": "6",
-          "power": "2",
-          "desc": "On Reveal: If this is your only card here, destroy all other locations.",
+          "power": "7",
+          "desc": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
