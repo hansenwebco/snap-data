@@ -3140,7 +3140,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }        
+        },
+        {
+          "id": "275",
+          "name": "Ravonna Renslayer",
+          "energy": "3",
+          "power": "3",
+          "desc": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }          
       ]
     }
   }
