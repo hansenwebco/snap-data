@@ -3150,7 +3150,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }          
+        },
+        {
+          "id": "276",
+          "name": "Mobius M Mobius",
+          "energy": "2",
+          "power": "3",
+          "desc": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }                    
       ]
     }
   }
