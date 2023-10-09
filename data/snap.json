@@ -1035,7 +1035,7 @@
           "id": "64",
           "name": "Uatu",
           "energy": "1",
-          "power": "2",
+          "power": "1",
           "desc": "Once this is in your hand, you can see the unrevealed locations.",
           "currentImage": true,
           "released": true,
@@ -1284,8 +1284,8 @@
         {
           "id": "89",
           "name": "Cable",
-          "energy": "2",
-          "power": "2",
+          "energy": "3",
+          "power": "4",
           "desc": "On Reveal: Draw the top card of your opponent's deck.",
           "currentImage": true,
           "released": true,
@@ -2074,8 +2074,8 @@
         {
           "id": "168",
           "name": "Mantis",
-          "energy": "1",
-          "power": "2",
+          "energy": "2",
+          "power": "3",
           "desc": "On Reveal: If your opponent played a card here this turn, draw a card from their deck.",
           "currentImage": true,
           "released": true,
@@ -2116,7 +2116,7 @@
           "name": "Mojo",
           "energy": "2",
           "power": "2",
-          "desc": "Ongoing: If both players have 4 cards at this location, +6 Power.",
+          "desc": "Ongoing: If both sides here are full, +6 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -2474,8 +2474,8 @@
         {
           "id": "208",
           "name": "Maria Hill",
-          "energy": "2",
-          "power": "3",
+          "energy": "1",
+          "power": "2",
           "desc": "On Reveal: Add a random 1-Cost card to your hand.",
           "currentImage": true,
           "released": true,
@@ -3160,7 +3160,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }                    
+        },
+        {
+          "id": "277",
+          "name": "Elsa Bloodstone",
+          "energy": "2",
+          "power": "2",
+          "desc": "If you play another card to fill a location, give it +3 Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }                      
       ]
     }
   }
