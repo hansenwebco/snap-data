@@ -3170,7 +3170,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }                      
+        },
+        {
+          "id": "278",
+          "name": "Man Thing",
+          "energy": "4",
+          "power": "5",
+          "desc": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }
       ]
     }
   }
