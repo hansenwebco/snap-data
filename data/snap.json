@@ -1146,7 +1146,7 @@
           "name": "WhiteTiger",
           "energy": "5",
           "power": "1",
-          "desc": "On Reveal: Add a 7-Power Tiger to another location.",
+          "desc": "On Reveal: Add a 8-Power Tiger to another location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1624,9 +1624,9 @@
         {
           "id": "123",
           "name": "Forge",
-          "energy": "2",
+          "energy": "1",
           "power": "1",
-          "desc": "Give the next card you play +3 Power.",
+          "desc": "On Reveal: Give the next card you play +2 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -2675,7 +2675,7 @@
           "id": "228",
           "name": "Shuri",
           "energy": "4",
-          "power": "2",
+          "power": "1",
           "desc": "On Reveal: If you play your next card here, double its Power.",
           "currentImage": true,
           "released": true,
@@ -3135,7 +3135,7 @@
           "id": "274",
           "name": "Alioth",
           "energy": "6",
-          "power": "5",
+          "power": "3",
           "desc": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)",
           "currentImage": true,
           "released": true,
