@@ -3180,6 +3180,16 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
+        },
+        {
+          "id": "279",
+          "name": "Nico Minoru",
+          "energy": "1",
+          "power": "2",
+          "desc": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
         }
       ]
     }
