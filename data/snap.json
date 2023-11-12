@@ -846,7 +846,7 @@
           "name": "ShangChi",
           "energy": "4",
           "power": "3",
-          "desc": "On Reveal: Destroy all enemy cards at this location that have 9 or more Power.",
+          "desc": "On Reveal: Destroy all enemy cards at this location that have 10 or more Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -934,8 +934,8 @@
         {
           "id": "54",
           "name": "StrongGuy",
-          "energy": "4",
-          "power": "4",
+          "energy": "3",
+          "power": "3",
           "desc": "Ongoing: If your hand is empty, +6 Power.",
           "currentImage": true,
           "released": true,
@@ -1106,7 +1106,7 @@
           "name": "Warpath",
           "energy": "4",
           "power": "5",
-          "desc": "Ongoing: If any of your locations are empty, +4 Power.",
+          "desc": "Ongoing: If any of your locations are empty, +5 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1514,7 +1514,7 @@
         {
           "id": "112",
           "name": "Doctor Strange",
-          "energy": "3",
+          "energy": "2",
           "power": "3",
           "desc": "On Reveal: Move your highest-Power card(s) to this location.",
           "currentImage": true,
@@ -1895,7 +1895,7 @@
           "id": "150",
           "name": "JessicaJones",
           "energy": "4",
-          "power": "4",
+          "power": "5",
           "desc": "On Reveal: If you don't play a card here next turn, +4 Power.",
           "currentImage": true,
           "released": true,
@@ -2665,7 +2665,7 @@
           "id": "227",
           "name": "She Hulk",
           "energy": "6",
-          "power": "9",
+          "power": "10",
           "desc": "Costs 1 less for each unspent Energy last turn.",
           "currentImage": true,
           "released": true,
@@ -3154,9 +3154,9 @@
         {
           "id": "276",
           "name": "Mobius M Mobius",
-          "energy": "2",
+          "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Until the end of next turn, your Costs can't be increased and your opponent's Costs can't be reduced.",
+          "desc": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
