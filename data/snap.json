@@ -3190,7 +3190,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }
+        },
+        {
+          "id": "280",
+          "name": "Annihilus",
+          "energy": "5",
+          "power": "7",
+          "desc": "On Reveal: Your cards with 0 or less Power switch sides. Destroy those that can't.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }        
       ]
     }
   }
