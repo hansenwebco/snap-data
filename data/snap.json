@@ -3200,7 +3200,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }        
+        },
+        {
+          "id": "281",
+          "name": "Martyr",
+          "energy": "1",
+          "power": "4",
+          "desc": "At the end of the game, move to a location that LOSES you the game. (if possible)",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }            
       ]
     }
   }
