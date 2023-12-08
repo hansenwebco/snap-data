@@ -416,7 +416,7 @@
           "name": "Apocalypse",
           "energy": "6",
           "power": "8",
-          "desc": "When you discard this from your hand, put it back with +4 Power.",
+          "desc": "When you discard this, put it back with +4 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -456,7 +456,7 @@
           "name": "Morph",
           "energy": "3",
           "power": "0",
-          "desc": "On Reveal: Become a copy of a random card in your opponent's hand.",
+          "desc": "On Reveal: Become a copy of a card in your opponent's hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -486,7 +486,7 @@
           "name": "MrSinister",
           "energy": "2",
           "power": "2",
-          "desc": "On Reveal: Add a Sinister Clone to this location with the same Power.",
+          "desc": "On Reveal: Add a Sinister Clone here with the same Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -526,7 +526,7 @@
           "name": "Armor",
           "energy": "2",
           "power": "3",
-          "desc": "On going: Cards at this location can't be destroyed.",
+          "desc": "Ongoing: Cards here can't be destroyed.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -576,7 +576,7 @@
           "name": "Odin",
           "energy": "6",
           "power": "8",
-          "desc": "On Reveal: Activate the On Reveal abilities of your other cards at this location.",
+          "desc": "On Reveal: Activate the On Reveal abilities of your other cards here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -606,7 +606,7 @@
           "name": "Onslaught",
           "energy": "6",
           "power": "7",
-          "desc": "Ongoing: Double your other Ongoing effects at this location.",
+          "desc": "Ongoing: Double your other Ongoing effects here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -626,7 +626,7 @@
           "name": "Polaris",
           "energy": "3",
           "power": "5",
-          "desc": "On Reveal: Move an opposing 1 or 2-Cost card to this location.",
+          "desc": "On Reveal: Move an enemy 1 or 2-Cost card to this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -636,7 +636,7 @@
           "name": "ArnimZola",
           "energy": "6",
           "power": "0",
-          "desc": "On Reveal: Destroy a random friendly card here. Add copies of it to the other locations.",
+          "desc": "On Reveal: Destroy one of your other cards here to copy it at the other locations.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -666,7 +666,7 @@
           "name": "Punisher",
           "energy": "3",
           "power": "2",
-          "desc": "Ongoing: +1 Power for each opposing card at this location.",
+          "desc": "Ongoing: +1 Power for each enemy card here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -706,7 +706,7 @@
           "name": "Red Skull",
           "energy": "5",
           "power": "14",
-          "desc": "Ongoing: Enemy cards at this location have +2 Power.",
+          "desc": "Ongoing: Enemy cards here have +2 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -766,7 +766,7 @@
           "name": "Rogue",
           "energy": "3",
           "power": "2",
-          "desc": "On Reveal: Steal an Ongoing ability from a random enemy card at this location",
+          "desc": "On Reveal: Steal the text from an enemy Ongoing card here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -806,7 +806,7 @@
           "name": "ScarletWitch",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: Replace this location with a random new one.",
+          "desc": "On Reveal: Replace this location with a new one.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -846,7 +846,7 @@
           "name": "ShangChi",
           "energy": "4",
           "power": "3",
-          "desc": "On Reveal: Destroy all enemy cards at this location that have 10 or more Power.",
+          "desc": "On Reveal: Destroy all enemy cards here that have 10 or more Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -856,7 +856,7 @@
           "name": "Beast",
           "energy": "3",
           "power": "4",
-          "desc": "On Reveal: Return your other cards at this location to your hand. They cost 1 less.",
+          "desc": "On Reveal: Return your other cards here to your hand. Give them -1 Cost.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -956,7 +956,7 @@
           "name": "Swarm",
           "energy": "2",
           "power": "3",
-          "desc": "When this is discarded from your hand, add two 0-Cost copies to your hand.",
+          "desc": "When you discard this, add two copies that cost 0 to your hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1046,7 +1046,7 @@
           "name": "Ultron",
           "energy": "6",
           "power": "8",
-          "desc": "On Reveal: Create four 1-Power Drones at each other location.",
+          "desc": "On Reveal: Deploy four 1-Power Drones to each other location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -1056,7 +1056,7 @@
           "name": "Venom",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Destroy your other cards at this location. Add their Power to this card.",
+          "desc": "On Reveal: Destroy your other cards here. Add their Power to this card.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1176,7 +1176,7 @@
           "name": "Wong",
           "energy": "4",
           "power": "2",
-          "desc": "Your On Reveal abilities at this location happen twice.",
+          "desc": "Ongoing: Your On Reveal abilities here happen twice.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -1196,7 +1196,7 @@
           "name": "Yellowjacket",
           "energy": "0",
           "power": "2",
-          "desc": "On Reveal: Afflict your other cards at this location with -1 Power.",
+          "desc": "On Reveal: Afflict your other cards here with -1 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1266,7 +1266,7 @@
           "name": "Brood",
           "energy": "3",
           "power": "2",
-          "desc": "On Reveal: Add 2 Broodlings to this location with the same Power",
+          "desc": "On Reveal: Add 2 Broodlings here with the same Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1286,7 +1286,7 @@
           "name": "Cable",
           "energy": "3",
           "power": "4",
-          "desc": "On Reveal: Draw the top card of your opponent's deck.",
+          "desc": "On Reveal: Draw a card from your opponent’s deck.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1296,7 +1296,7 @@
           "name": "CaptainAmerica",
           "energy": "3",
           "power": "3",
-          "desc": "Ongoing: Your other cards at this location have +1 Power.",
+          "desc": "Ongoing: Your other cards here have +1 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1355,8 +1355,8 @@
           "id": "96",
           "name": "Aero",
           "energy": "5",
-          "power": "8",
-          "desc": "On Reveal: Move the last enemy card played this turn to this location.",
+          "power": "9",
+          "desc": "On Reveal: Move the last enemy card played anywhere to this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -1376,7 +1376,7 @@
           "name": "Cosmo",
           "energy": "3",
           "power": "3",
-          "desc": "Ongoing: On Reveal Abilities won't happen at this location.",
+          "desc": "Ongoing: On Reveal abilities won't happen here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1416,7 +1416,7 @@
           "name": "Dagger",
           "energy": "2",
           "power": "2",
-          "desc": "When this moves to a location, +2 Power for each card your opponent has there.",
+          "desc": "When this moves to a location, +2 Power for each enemy card there.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1456,7 +1456,7 @@
           "name": "Deathlok",
           "energy": "3",
           "power": "5",
-          "desc": "On Reveal: Destroy your other cards at this location.",
+          "desc": "On Reveal: Destroy your other cards here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1506,7 +1506,7 @@
           "name": "Doctor Octopus",
           "energy": "5",
           "power": "10",
-          "desc": "On Reveal: Pull 4 random cards from y our opponent's hand to their side of this location.",
+          "desc": "On Reveal: Pull 4 cards from your opponent's hand to their side of this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1596,7 +1596,7 @@
           "name": "Elektra",
           "energy": "1",
           "power": "1",
-          "desc": "On Reveal: Destroy a random enemy 1 -Cost card at this location.",
+          "desc": "On Reveal: Destroy an enemy 1-Cost card here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1606,7 +1606,7 @@
           "name": "Enchantress",
           "energy": "4",
           "power": "5",
-          "desc": "On Reveal: Remove the abilities from all Ongoing cards at this location.",
+          "desc": "On Reveal: Remove the abilities from all Ongoing cards here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1676,7 +1676,7 @@
           "name": "Goose",
           "energy": "2",
           "power": "2",
-          "desc": "Ongoing:  Nobody can play cards that cost 4, 5, or 6 at this location.",
+          "desc": "Ongoing: Nobody can play cards that cost 4, 5, or 6 here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1684,9 +1684,9 @@
         {
           "id": "129",
           "name": "AmericaChavez",
-          "energy": "6",
-          "power": "9",
-          "desc": "Starts on the bottom of your deck. Draw this on turn 6.",
+          "energy": "2",
+          "power": "3",
+          "desc": "On Reveal: The top card of your deck gets +2 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1746,7 +1746,7 @@
           "name": "Hela",
           "energy": "6",
           "power": "6",
-          "desc": "On Reveal: Resurrect all cards you discarded from your hand to random locations.",
+          "desc": "On Reveal: Resurrect all cards you discarded to random locations.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -1806,7 +1806,7 @@
           "name": "Hulkbuster",
           "energy": "3",
           "power": "5",
-          "desc": "On Reveal: Merge this card with a random friendy card at this location.",
+          "desc": "On Reveal: Merge this with one of your cards here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1826,7 +1826,7 @@
           "name": "Iceman",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Give a random card in your opponent's hand +1 Cost. (maximum 6)",
+          "desc": "On Reveal: Give a card in your opponent's hand +1 Cost. (maximum 6)",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1866,7 +1866,7 @@
           "name": "Ironheart",
           "energy": "3",
           "power": "0",
-          "desc": "On Reveal: Give 3 other friendly cards +2 Power.",
+          "desc": "On Reveal: Give 3 of your other cards +2 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1876,7 +1876,7 @@
           "name": "IronMan",
           "energy": "5",
           "power": "0",
-          "desc": "Ongoing: Your total Power is doubled at this location.",
+          "desc": "Ongoing: Your total Power is doubled here.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1926,7 +1926,7 @@
           "name": "Juggernaut",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: If your opponent played cards here this turn, move them randomly.",
+          "desc": "On Reveal: Move away all enemy cards played here this turn. (including unrevealed cards)",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -2066,7 +2066,7 @@
           "name": "Magneto",
           "energy": "6",
           "power": "12",
-          "desc": "On Reveal: Move all opposing 3 and 4 cost cards to this location",
+          "desc": "On Reveal: Move all enemy 3 and 4-Cost cards to this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -2356,7 +2356,7 @@
           "name": "Helicarrier",
           "energy": "6",
           "power": "10",
-          "desc": "When you discard this from your hand, replace it with 3 random cards.",
+          "desc": "When you discard this, add 3 random cards to your hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -2405,7 +2405,7 @@
           "id": "201",
           "name": "Kitty Pryde",
           "energy": "1",
-          "power": "0",
+          "power": "1",
           "desc": "You can return this to your hand to gain +1 Power.",
           "currentImage": true,
           "released": true,
@@ -2436,7 +2436,7 @@
           "name": "Luke Cage",
           "energy": "2",
           "power": "2",
-          "desc": "Ongoing: Your cards can't have their Power reduced.",
+          "desc": "Your cards here can't have their Power reduced.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -2456,7 +2456,7 @@
           "name": "M'Baku",
           "energy": "1",
           "power": "2",
-          "desc": "If this is in your deck at the end of the game, it leaps to a random location.",
+          "desc": "If this is in your deck at the end of the game, it jumps to a location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -2645,7 +2645,7 @@
           "id": "225",
           "name": "Shadow King",
           "energy": "2",
-          "power": "3",
+          "power": "2",
           "desc": "On Reveal: Set all cards here to their orginal base power",
           "currentImage": true,
           "released": true,
@@ -2856,7 +2856,7 @@
           "name": "Valkyrie",
           "energy": "5",
           "power": "3",
-          "desc": "On Reveal: Set ALL cards at this location to 3 Power.",
+          "desc": "On Reveal: Set ALL cards here to 3 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3026,7 +3026,7 @@
           "name": "Stature",
           "energy": "5",
           "power": "6",
-          "desc": "Costs 1 if your opponent discarded a card from their hand this game.",
+          "desc": "Costs 1 if your opponent discarded a card this game.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3085,7 +3085,7 @@
           "id": "269",
           "name": "Stegron",
           "energy": "4",
-          "power": "5",
+          "power": "6",
           "desc": "On Reveal: Move an enemy card from here to another location.",
           "currentImage": true,
           "released": true,
@@ -3135,7 +3135,7 @@
           "id": "274",
           "name": "Alioth",
           "energy": "6",
-          "power": "3",
+          "power": "2",
           "desc": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)",
           "currentImage": true,
           "released": true,
@@ -3145,7 +3145,7 @@
           "id": "275",
           "name": "Ravonna Renslayer",
           "energy": "2",
-          "power": "1",
+          "power": "3",
           "desc": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)",
           "currentImage": true,
           "released": true,
@@ -3165,8 +3165,8 @@
           "id": "277",
           "name": "Elsa Bloodstone",
           "energy": "2",
-          "power": "2",
-          "desc": "If you play another card to fill a location, give it +2 Power.",
+          "power": "3",
+          "desc": "After you play a card that fills this location, give it +2 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3210,7 +3210,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }            
+        },
+        {
+          "id": "282",
+          "name": "Werewolf By Night",
+          "energy": "3",
+          "power": "3",
+          "desc": "After you play an On Reveal card at another location, move there to gain +2 Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }                
       ]
     }
   }
