@@ -3220,7 +3220,17 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }                
+        },
+        {
+          "id": "283",
+          "name": "Blob",
+          "energy": "6",
+          "power": "4",
+          "desc": "On Reveal: Merge your deck into this. (and gain its total Power) Ongoing: Can't be moved.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }                 
       ]
     }
   }
