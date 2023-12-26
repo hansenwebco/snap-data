@@ -645,7 +645,7 @@
           "id": "25",
           "name": "ProfessorX",
           "energy": "5",
-          "power": "3",
+          "power": "1",
           "desc": "Ongoing: Lock down this location. (Cards can't be added, removed, etc.)",
           "currentImage": true,
           "released": true,
@@ -665,7 +665,7 @@
           "id": "27",
           "name": "Punisher",
           "energy": "3",
-          "power": "2",
+          "power": "3",
           "desc": "Ongoing: +1 Power for each enemy card here.",
           "currentImage": true,
           "released": true,
@@ -775,7 +775,7 @@
           "id": "38",
           "name": "Ronan",
           "energy": "5",
-          "power": "3",
+          "power": "5",
           "desc": "Ongoing: +2 Power for each card in your opponent's hand.",
           "currentImage": true,
           "released": true,
@@ -1064,8 +1064,8 @@
         {
           "id": "67",
           "name": "Viper",
-          "energy": "2",
-          "power": "3",
+          "energy": "3",
+          "power": "4",
           "desc": "On Reveal: Your opponent gains control of one of your other cards at this location.",
           "currentImage": true,
           "released": true,
@@ -1223,9 +1223,9 @@
         },
         {
           "id": "83",
-          "name": "BlackWidow",
-          "energy": "2",
-          "power": "1",
+          "name": "Black Widow",
+          "energy": "3",
+          "power": "3",
           "desc": "On Reveal: Add a Widow's Bite to your opponent's hand.",
           "currentImage": true,
           "released": true,
@@ -2084,8 +2084,8 @@
         {
           "id": "169",
           "name": "Maximus",
-          "energy": "3",
-          "power": "7",
+          "energy": "2",
+          "power": "6",
           "desc": "On Reveal: Your opponent draws 2 cards.",
           "currentImage": true,
           "released": true,
@@ -3214,8 +3214,8 @@
         {
           "id": "282",
           "name": "Werewolf By Night",
-          "energy": "3",
-          "power": "3",
+          "energy": "4",
+          "power": "4",
           "desc": "After you play an On Reveal card at another location, move there to gain +2 Power.",
           "currentImage": true,
           "released": true,
@@ -3230,7 +3230,37 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }                 
+        },
+        {
+          "id": "284",
+          "name": "Selene",
+          "energy": "1",
+          "power": "-1",
+          "desc": "On Reveal: Afflict the lowest-Power card in each player's hand with -3 Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "285",
+          "name": "Havok",
+          "energy": "2",
+          "power": "0",
+          "desc": "After each turn, you lose 1 Max Energy and this gains +4 Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        } ,
+        {
+          "id": "286",
+          "name": "Gladiator",
+          "energy": "3",
+          "power": "8",
+          "desc": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }                              
       ]
     }
   }
