@@ -676,7 +676,7 @@
           "name": "Quake",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: If this is at the middle location, swap the positions of each location.",
+          "desc": "On Reveal: Swap the positions of the other two locations.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1065,8 +1065,8 @@
           "id": "67",
           "name": "Viper",
           "energy": "3",
-          "power": "4",
-          "desc": "On Reveal: Your opponent gains control of one of your other cards at this location.",
+          "power": "5",
+          "desc": "On Reveal: One of your other cards here switches sides.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1415,8 +1415,8 @@
           "id": "102",
           "name": "Dagger",
           "energy": "2",
-          "power": "2",
-          "desc": "When this moves to a location, +2 Power for each enemy card there.",
+          "power": "0",
+          "desc": "When this moves to a location, +3 Power for each enemy card there.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1485,7 +1485,7 @@
           "id": "109",
           "name": "Destroyer",
           "energy": "6",
-          "power": "15",
+          "power": "16",
           "desc": "On Reveal: Destroy your other cards.",
           "currentImage": true,
           "released": true,
@@ -1535,8 +1535,8 @@
           "id": "114",
           "name": "Dracula",
           "energy": "4",
-          "power": "0",
-          "desc": "At the end of the game, discard a card from your hand. This has its Power.",
+          "power": "1",
+          "desc": "At the end of the game, discard a card from your hand to gain its Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1595,7 +1595,7 @@
           "id": "120",
           "name": "Elektra",
           "energy": "1",
-          "power": "1",
+          "power": "2",
           "desc": "On Reveal: Destroy an enemy 1-Cost card here.",
           "currentImage": true,
           "released": true,
@@ -1686,7 +1686,7 @@
           "name": "AmericaChavez",
           "energy": "2",
           "power": "3",
-          "desc": "On Reveal: The top card of your deck gets +2 Power.",
+          "desc": "On Reveal: Give the top card of your deck +2 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1906,7 +1906,7 @@
           "name": "Angel",
           "energy": "1",
           "power": "2",
-          "desc": "When on of your cards is destroyed, this flies out of your deck to replace it.",
+          "desc": "When one of your cards is destroyed, this flies out of your hand or deck to replace it.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1954,9 +1954,9 @@
         {
           "id": "156",
           "name": "Kingpin",
-          "energy": "3",
-          "power": "4",
-          "desc": "When a card moves here on turn 6, destroy it.",
+          "energy": "2",
+          "power": "3",
+          "desc": "When an enemy card moves here, afflict it with -2 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -2284,7 +2284,7 @@
         {
           "id": "189",
           "name": "Dazzler",
-          "energy": "3",
+          "energy": "2",
           "power": "2",
           "desc": "Ongoing: +2 Power for each location that's full on your side.",
           "currentImage": true,
@@ -2534,9 +2534,9 @@
         {
           "id": "214",
           "name": "Ms. Marvel",
-          "energy": "3",
+          "energy": "4",
           "power": "4",
-          "desc": "Ongoing: If this is your only card here, adjacent locations have +5 Power.",
+          "desc": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power.",
           "currentImage": true,
           "released": false,
           "draftRarity": 0
@@ -3126,7 +3126,7 @@
           "name": "Loki",
           "energy": "4",
           "power": "5",
-          "desc": "On Reveal: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.",
+          "desc": "On Reveal: Transform your hand into cards from your opponent’s starting deck and give them -1 Cost.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3195,8 +3195,8 @@
           "id": "280",
           "name": "Annihilus",
           "energy": "5",
-          "power": "7",
-          "desc": "On Reveal: Your cards with 0 or less Power switch sides. Destroy those that can't.",
+          "power": "6",
+          "desc": " On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3225,8 +3225,8 @@
           "id": "283",
           "name": "Blob",
           "energy": "6",
-          "power": "4",
-          "desc": "On Reveal: Merge your deck into this. (and gain its total Power) Ongoing: Can't be moved.",
+          "power": "0",
+          "desc": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3235,7 +3235,7 @@
           "id": "284",
           "name": "Selene",
           "energy": "1",
-          "power": "-1",
+          "power": "2",
           "desc": "On Reveal: Afflict the lowest-Power card in each player's hand with -3 Power.",
           "currentImage": true,
           "released": true,
@@ -3250,7 +3250,7 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        } ,
+        },
         {
           "id": "286",
           "name": "Gladiator",
@@ -3260,7 +3260,47 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }                              
+        },
+        {
+          "id": "287",
+          "name": "Hercules",
+          "energy": "4",
+          "power": "7",
+          "desc": "The first time another card moves here each turn, move it to another location.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "288",
+          "name": "Caiera",
+          "energy": "3",
+          "power": "4",
+          "desc": "Ongoing: Your 1 and 6-Cost cards can't be destroyed.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "289",
+          "name": "Miek",
+          "energy": "1",
+          "power": "1",
+          "desc": "After each turn, if you discarded any cards, gain +1 Power for each and move.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "290",
+          "name": "Miek",
+          "energy": "6",
+          "power": "11",
+          "desc": "Costs 2 less for each of your cards that has 10 or more Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }
       ]
     }
   }
