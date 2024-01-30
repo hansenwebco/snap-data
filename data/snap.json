@@ -3293,14 +3293,35 @@
         },
         {
           "id": "290",
-          "name": "Miek",
+          "name": "Skaar",
           "energy": "6",
           "power": "11",
           "desc": "Costs 2 less for each of your cards that has 10 or more Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }
+        },
+        {
+          "id": "291",
+          "name": "Grand Master",
+          "energy": "2",
+          "power": "0",
+          "desc": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        ,
+        {
+          "id": "292",
+          "name": "Beta Ray Bill",
+          "energy": "4",
+          "power": "6",
+          "desc": "On Reveal: Shuffle Stormbreaker into your deck.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }        
       ]
     }
   }
