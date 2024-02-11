@@ -596,7 +596,7 @@
           "name": "OmegaRed",
           "energy": "4",
           "power": "5",
-          "desc": "Ongoing: If you're ahead by 10 Power here, +4 Power to other locations.",
+          "desc": "Ongoing: If you're winning here, +3 Power to other locations.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -854,9 +854,9 @@
         {
           "id": "46",
           "name": "Beast",
-          "energy": "3",
-          "power": "4",
-          "desc": "On Reveal: Return your other cards here to your hand. Give them -1 Cost.",
+          "energy": "2",
+          "power": "2",
+          "desc": "On Reveal: Return your other cards here to your hand. They cost 1 less next turn.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1735,7 +1735,7 @@
           "id": "134",
           "name": "Heimdall",
           "energy": "6",
-          "power": "8",
+          "power": "9",
           "desc": "On Reveal: Move your other cards one location to the left.",
           "currentImage": true,
           "released": true,
@@ -1804,8 +1804,8 @@
         {
           "id": "141",
           "name": "Hulkbuster",
-          "energy": "3",
-          "power": "5",
+          "energy": "2",
+          "power": "3",
           "desc": "On Reveal: Merge this with one of your cards here.",
           "currentImage": true,
           "released": true,
@@ -2356,7 +2356,7 @@
           "name": "Helicarrier",
           "energy": "6",
           "power": "10",
-          "desc": "When you discard this, add 3 random cards to your hand.",
+          "desc": "When you discard this, fill your hand with random cards.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -2434,9 +2434,9 @@
         {
           "id": "204",
           "name": "Luke Cage",
-          "energy": "2",
-          "power": "2",
-          "desc": "Your cards here can't have their Power reduced.",
+          "energy": "3",
+          "power": "4",
+          "desc": "Your cards can't have their Power reduced.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -2994,8 +2994,8 @@
         {
           "id": "260",
           "name": "Ghost",
-          "energy": "1",
-          "power": "2",
+          "energy": "3",
+          "power": "5",
           "desc": "Ongoing: Your cards are always revealed last. (Their On Reveal abilities happen last.)",
           "currentImage": true,
           "released": true,
@@ -3094,8 +3094,8 @@
         {
           "id": "270",
           "name": "Spiderman 2099",
-          "energy": "4",
-          "power": "6",
+          "energy": "5",
+          "power": "9",
           "desc": "The first time this moves to a location, destroy an enemy card there.",
           "currentImage": true,
           "released": true,
@@ -3320,7 +3320,27 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
-        }        
+        },
+        {
+          "id": "293",
+          "name": "Black Swan",
+          "energy": "3",
+          "power": "6",
+          "desc": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "294",
+          "name": "Supergiant",
+          "energy": "4",
+          "power": "5",
+          "desc": "On Reveal: All cards played next turn don't reveal until the game ends.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        }
       ]
     }
   }
