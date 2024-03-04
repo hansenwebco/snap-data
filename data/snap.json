@@ -975,7 +975,7 @@
           "id": "58",
           "name": "SwordMaster",
           "energy": "3",
-          "power": "6",
+          "power": "7",
           "desc": "On Reveal: Discard a card from your hand.",
           "currentImage": true,
           "released": true,
@@ -1096,7 +1096,7 @@
           "name": "Vulture",
           "energy": "3",
           "power": "3",
-          "desc": "When this card moves, +5 Power.",
+          "desc": "When this card moves, +6 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -1244,8 +1244,8 @@
         {
           "id": "85",
           "name": "AdamWarlock",
-          "energy": "2",
-          "power": "0",
+          "energy": "5",
+          "power": "4",
           "desc": "At the end of each turn, if you are winning this location, draw a card.",
           "currentImage": true,
           "released": true,
@@ -1624,8 +1624,8 @@
         {
           "id": "123",
           "name": "Forge",
-          "energy": "1",
-          "power": "1",
+          "energy": "2",
+          "power": "2",
           "desc": "On Reveal: Give the next card you play +2 Power.",
           "currentImage": true,
           "released": true,
@@ -1684,8 +1684,8 @@
         {
           "id": "129",
           "name": "AmericaChavez",
-          "energy": "2",
-          "power": "3",
+          "energy": "1",
+          "power": "2",
           "desc": "On Reveal: Give the top card of your deck +2 Power.",
           "currentImage": true,
           "released": true,
@@ -2016,7 +2016,7 @@
           "name": "Ant-man",
           "energy": "1",
           "power": "1",
-          "desc": "Ongoing: If your side of this location is full, +3 Power.",
+          "desc": "Ongoing: If your side of this location is full, +4 Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -2044,8 +2044,8 @@
         {
           "id": "165",
           "name": "Lockjaw",
-          "energy": "3",
-          "power": "2",
+          "energy": "4",
+          "power": "5",
           "desc": "After you play a card here, swap it with a card in your deck. (once per turn)",
           "currentImage": true,
           "released": true,
@@ -2264,8 +2264,8 @@
         {
           "id": "187",
           "name": "Darkhawk",
-          "energy": "4",
-          "power": "0",
+          "energy": "5",
+          "power": "4",
           "desc": "Ongoing: +2 Power for each card in your opponent's deck.",
           "currentImage": true,
           "released": true,
@@ -3337,6 +3337,36 @@
           "energy": "4",
           "power": "5",
           "desc": "On Reveal: All cards played next turn don't reveal until the game ends.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "295",
+          "name": "Cull Obsidian",
+          "energy": "4",
+          "power": "10",
+          "desc": "You can only play this where you have a 1-Cost card.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "296",
+          "name": "Corvus Glaive",
+          "energy": "3",
+          "power": "5",
+          "desc": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "297",
+          "name": "Proxima Midnight",
+          "energy": "4",
+          "power": "7",
+          "desc": "When this is discarded, jumps to your lowest-Power location. (that isn't full)",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
