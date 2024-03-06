@@ -3370,6 +3370,26 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
+        },
+        {
+          "id": "298",
+          "name": "Hope Sanders",
+          "energy": "3",
+          "power": "4",
+          "desc": "After you play a card here, you get +1 Energy next turn.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "299",
+          "name": "Pixie",
+          "energy": "2",
+          "power": "1",
+          "desc": "On Reveal: Shuffle the Costs of all cards in your deck that started there.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
         }
       ]
     }
