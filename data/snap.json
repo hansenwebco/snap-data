@@ -3440,6 +3440,16 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 0
+        },
+        {
+          "id": "305",
+          "name": "White Widow",
+          "energy": "2",
+          "power": "2",
+          "desc": "On Reveal: Add a Widow's Kiss to your opponent's side of this location.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
         }
       ]
     }
