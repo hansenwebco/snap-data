@@ -2615,10 +2615,10 @@
           "id": "222",
           "name": "Red Guardian",
           "energy": "3",
-          "power": "6",
-          "desc": "On Reveal: You must play a card here next turn.",
+          "power": "3",
+          "desc": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -3437,6 +3437,16 @@
           "energy": "2",
           "power": "3",
           "desc": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 0
+        },
+        {
+          "id": "305",
+          "name": "White Widow",
+          "energy": "2",
+          "power": "2",
+          "desc": "On Reveal: Add a Widow's Kiss to your opponent's side of this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
