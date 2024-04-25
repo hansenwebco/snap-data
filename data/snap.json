@@ -2615,10 +2615,10 @@
           "id": "222",
           "name": "Red Guardian",
           "energy": "3",
-          "power": "6",
-          "desc": "On Reveal: You must play a card here next turn.",
+          "power": "3",
+          "desc": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
