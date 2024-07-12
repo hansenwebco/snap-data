@@ -3560,6 +3560,26 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 1
+        },
+        {
+          "id": "317",
+          "name": "Hydra Bob",
+          "energy": "1",
+          "power": "4",
+          "desc": "After each turn, this moves if a player Snapped.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "318",
+          "name": "Gwenpool",
+          "energy": "4",
+          "power": "6",
+          "desc": "On Reveal: Pick a random card in your hand 3 times. Give +2 Power each time.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
         }
       ]
     }
