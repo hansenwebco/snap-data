@@ -415,7 +415,7 @@
           "id": "2",
           "name": "Apocalypse",
           "energy": "6",
-          "power": "6",
+          "power": "8",
           "desc": "When you discard this, put it back with +4 Power.",
           "currentImage": true,
           "released": true,
@@ -436,7 +436,7 @@
           "name": "Moon Knight",
           "energy": "3",
           "power": "3",
-          "desc": "On Reveal: Discard a card from each player's hand.",
+          "desc": "On Reveal: Discard a card with an even Cost from each player's hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1036,7 +1036,7 @@
           "name": "Uatu",
           "energy": "1",
           "power": "2",
-          "desc": "Once this is in your hand, you can see the unrevealed locations.",
+          "desc": "At the start of the game, shows unrevealed locations to you.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1076,7 +1076,7 @@
           "name": "Black Bolt",
           "energy": "5",
           "power": "7",
-          "desc": "On Reveal: Discard the lowest-cost card from your opponent's hand.",
+          "desc": "On Reveal: Discard the card that costs the least from your opponent's hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1133,10 +1133,10 @@
         },
         {
           "id": "74",
-          "name": "WhiteQueen",
+          "name": "White Queen",
           "energy": "4",
           "power": "6",
-          "desc": "On Reveal: Draw a copy of a 6-Cost card in your opponent's hand.",
+          "desc": "On Reveal: Copy the card that costs the most from your opponent's hand into your hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1206,7 +1206,7 @@
           "name": "Yondu",
           "energy": "1",
           "power": "2",
-          "desc": "On Reveal: Destroy the lowest-Cost card in your opponent's deck.",
+          "desc": "On Reveal: Destroy the card that costs the least in your opponent's deck.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1343,10 +1343,10 @@
         },
         {
           "id": "95",
-          "name": "ColleenWing",
+          "name": "Colleen Wing",
           "energy": "2",
           "power": "4",
-          "desc": "On Reveal: Discard the lowest-cost card from your hand.",
+          "desc": "On Reveal: Discard the card that costs the least from your hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1504,9 +1504,9 @@
         {
           "id": "111",
           "name": "Doctor Octopus",
-          "energy": "5",
-          "power": "10",
-          "desc": "On Reveal: Pull 4 cards from your opponent's hand to their side of this location.",
+          "energy": "4",
+          "power": "8",
+          "desc": "On Reveal: Pull the lowest-Power card from your opponent’s hand to their side of this location.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -1883,10 +1883,10 @@
         },
         {
           "id": "149",
-          "name": "JaneFoster",
+          "name": "Jane Foster",
           "energy": "5",
           "power": "9",
-          "desc": "On Reveal: Draw all cards that Cost 0 from  your deck.",
+          "desc": "On Reveal: Draw all cards that cost 0 from your deck.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -1993,10 +1993,10 @@
         },
         {
           "id": "160",
-          "name": "LadySif",
+          "name": "Lady Sif",
           "energy": "3",
           "power": "5",
-          "desc": "On Reveal: Discard the highest cost card from your hand.",
+          "desc": "On Reveal: Discard the card that costs the most from your hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 2
@@ -2024,9 +2024,9 @@
         {
           "id": "163",
           "name": "Leech",
-          "energy": "5",
-          "power": "5",
-          "desc": "On Reveal: Remove the text from each card with an On Reveal ability in your opponent's hand.",
+          "energy": "4",
+          "power": "4",
+          "desc": "On Reveal: Remove the text from 6-Cost cards in your opponent's hand.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -2233,20 +2233,20 @@
         },
         {
           "id": "184",
-          "name": "Blink",
-          "energy": "3",
-          "power": "1",
-          "desc": "You can move this each turn. When it moves, +1 Power.",
+          "name": "no-card",
+          "energy": "0",
+          "power": "0",
+          "desc": "",
           "currentImage": true,
           "released": false,
           "draftRarity": 0
         },
         {
           "id": "185",
-          "name": "Blob",
-          "energy": "3",
-          "power": "1",
-          "desc": "Ongoing: Nothing can move this to another location.",
+          "name": "no-card",
+          "energy": "0",
+          "power": "0",
+          "desc": "",
           "currentImage": true,
           "released": false,
           "draftRarity": 0
@@ -2526,7 +2526,7 @@
           "name": "Mirage",
           "energy": "4",
           "power": "5",
-          "desc": "As you play this, disguise it as Mister Fantastic. After the final turn, reveal it.",
+          "desc": "On Reveal: Copy the card that costs the least from your opponent's hand into your hand. Give it +2 Power.",
           "currentImage": true,
           "released": false,
           "draftRarity": 0
@@ -2875,10 +2875,10 @@
           "id": "248",
           "name": "War Machine",
           "energy": "4",
-          "power": "5",
-          "desc": "Ongoing: Your 1-Cost cards have +1 Power.",
+          "power": "7",
+          "desc": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere.",
           "currentImage": true,
-          "released": false,
+          "released": true,
           "draftRarity": 0
         },
         {
@@ -3124,9 +3124,9 @@
         {
           "id": "273",
           "name": "Loki",
-          "energy": "4",
+          "energy": "3",
           "power": "5",
-          "desc": "On Reveal: Transform your hand into cards from your opponent’s starting deck and give them -1 Cost.",
+          "desc": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3226,7 +3226,7 @@
           "name": "Blob",
           "energy": "6",
           "power": "0",
-          "desc": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power.",
+          "desc": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3455,8 +3455,8 @@
           "id": "306",
           "name": "Blink",
           "energy": "5",
-          "power": "6",
-          "desc": "On Reveal: Swap the last card you played with a higher-Cost card from your deck.",
+          "power": "7",
+          "desc": "On Reveal: Swap the last card you played with a card that costs more from your deck.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
