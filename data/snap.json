@@ -3610,6 +3610,26 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 1
+        },
+        {
+          "id": "322",
+          "name": "Hawkeye Kate Bishop",
+          "energy": "2",
+          "power": "3",
+          "desc": "On Reveal: Add 2 Arrows to your hand.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "323",
+          "name": "Marvel Boy",
+          "energy": "3",
+          "power": "2",
+          "desc": "After each turn, give 3 of your 1-Cost cards +1 Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
         }
       ]
     }
