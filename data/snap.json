@@ -3630,6 +3630,26 @@
           "currentImage": true,
           "released": true,
           "draftRarity": 1
+        },
+        {
+          "id": "324",
+          "name": "Valentina",
+          "energy": "2",
+          "power": "3",
+          "desc": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "325",
+          "name": "Sebastian Shaw",
+          "energy": "3",
+          "power": "4",
+          "desc": "When this card permanently gains Power, gain +2 more Power. (wherever this is)",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
         }
       ]
     }
