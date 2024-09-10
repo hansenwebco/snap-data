@@ -854,8 +854,8 @@
         {
           "id": "46",
           "name": "Beast",
-          "energy": "2",
-          "power": "2",
+          "energy": "3",
+          "power": "5",
           "desc": "On Reveal: Return your other cards here to your hand. They cost 1 less next turn.",
           "currentImage": true,
           "released": true,
@@ -984,7 +984,7 @@
         {
           "id": "59",
           "name": "Taskmaster",
-          "energy": "5",
+          "energy": "6",
           "power": "0",
           "desc": "On Reveal: Set this card's Power equal to that of the last card you played. (if that card's in play)",
           "currentImage": true,
@@ -1486,7 +1486,7 @@
           "name": "Destroyer",
           "energy": "6",
           "power": "16",
-          "desc": "On Reveal: Destroy your other cards.",
+          "desc": "On Reveal: Destroy your cards at other locations.",
           "currentImage": true,
           "released": true,
           "draftRarity": 3
@@ -2196,7 +2196,7 @@
           "name": "Attuma",
           "energy": "4",
           "power": "10",
-          "desc": "If you have another card here at the end of your turn, destroy this.",
+          "desc": "After each turn, destroy one of your cards here with less Power.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3124,9 +3124,9 @@
         {
           "id": "273",
           "name": "Loki",
-          "energy": "3",
-          "power": "5",
-          "desc": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card.",
+          "energy": "2",
+          "power": "2",
+          "desc": "On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost.",
           "currentImage": true,
           "released": true,
           "draftRarity": 0
@@ -3405,7 +3405,7 @@
           "id": "301",
           "name": "Cannonball",
           "energy": "5",
-          "power": "7",
+          "power": "8",
           "desc": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock.",
           "currentImage": true,
           "released": true,
@@ -3596,7 +3596,7 @@
           "name": "Copycat",
           "energy": "3",
           "power": "5",
-          "desc": "When you draw this, steal the text from the bottom card of your opponent's deck.",
+          "desc": "When you draw this, copy the text from the bottom card of your opponent's deck.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
@@ -3647,6 +3647,66 @@
           "energy": "3",
           "power": "4",
           "desc": "When this card permanently gains Power, gain +2 more Power. (wherever this is)",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "326",
+          "name": "Wiccan",
+          "energy": "4",
+          "power": "7",
+          "desc": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "327",
+          "name": "Speed",
+          "energy": "4",
+          "power": "7",
+          "desc": "Ongoing: +1 Power for each turn in which you spent all your Energy.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "328",
+          "name": "Hulkling",
+          "energy": "6",
+          "power": "11",
+          "desc": "At the start of the game, copy the text of a random 6-Cost card.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "329",
+          "name": "Symbiote Spiderman",
+          "energy": "4",
+          "power": "6",
+          "desc": "Activate: Merge your lowest-Cost card here with this. Copy its text like it just revealed.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "330",
+          "name": "Silver Sable",
+          "energy": "1",
+          "power": "1",
+          "desc": "On Reveal: Steal 2 Power from the top card of your opponent's deck.",
+          "currentImage": true,
+          "released": true,
+          "draftRarity": 1
+        },
+        {
+          "id": "331",
+          "name": "Madam Web",
+          "energy": "2",
+          "power": "1",
+          "desc": "Ongoing: You can move one of your other cards away from here each turn.",
           "currentImage": true,
           "released": true,
           "draftRarity": 1
