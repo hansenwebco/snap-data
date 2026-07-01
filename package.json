@@ -1,0 +1,26 @@
+{
+  "name": "snap-data",
+  "version": "1.0.0",
+  "description": "This repository contains card data for the mobile card game Marvel Snap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node update_data.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansenwebco/snap-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansenwebco/snap-data/issues"
+  },
+  "homepage": "https://github.com/hansenwebco/snap-data#readme",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "puppeteer": "^25.2.1",
+    "sharp": "^0.35.2"
+  }
+}
